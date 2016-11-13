@@ -6,53 +6,36 @@ $('#mySelect').change(function() {
 		$('.desktop-two-center-one').css("display", "block");
 		$('.desktop-two-center-two').css("display", "none");
 		$('.desktop-two-center-three').css("display", "none");
-		$('.desktop-two-center-four').css("display", "none");
-		$('.desktop-two-center-five').css("display", "none");
-		$('.desktop-two-center-six').css("display", "none");
 
 		$(".desktop-two-button").removeClass("white_bd1");
 	} else if(select_value == 2) {
 		$('.desktop-two-center-two').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
 		$('.desktop-two-center-three').css("display", "none");
-		$('.desktop-two-center-four').css("display", "none");
 		$(".desktop-two-center .news").css("display", "block");
 		$('.desktop-two-button').attr("disabled", "disabled");
-		$('.desktop-two-center-five').css("display", "none");
-		$('.desktop-two-center-six').css("display", "none");
 		$(".desktop-two-button").addClass("white_bd1");
 	} else if(select_value == 3) {
 		$('.desktop-two-center-three').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
 		$('.desktop-two-center-two').css("display", "none");
-		$('.desktop-two-center-four').css("display", "none");
-		$('.desktop-two-center-five').css("display", "none");
-		$('.desktop-two-center-six').css("display", "none");
 		$(".desktop-two-button").addClass("white_bd1");
-	} else if(select_value == 4) {
-		$('.desktop-two-center-four').css("display", "block");
-		$('.desktop-two-center-one').css("display", "none");
-		$('.desktop-two-center-two').css("display", "none");
-		$('.desktop-two-center-three').css("display", "none");
-		$('.desktop-two-center-five').css("display", "none");
-		$('.desktop-two-center-six').css("display", "none");
-		$(".desktop-two-button").addClass("white_bd1");
-	} else if(select_value == 5) {
-		$('.desktop-two-center-five').css("display", "block");
-		$('.desktop-two-center-one').css("display", "none");
-		$('.desktop-two-center-two').css("display", "none");
-		$('.desktop-two-center-three').css("display", "none");
-		$('.desktop-two-center-four').css("display", "none");
-		$('.desktop-two-center-six').css("display", "none");
-		$(".desktop-two-button").addClass("white_bd1");
-	} else if(select_value == 6) {
-		$('.desktop-two-center-six').css("display", "block");
-		$('.desktop-two-center-one').css("display", "none");
-		$('.desktop-two-center-two').css("display", "none");
-		$('.desktop-two-center-three').css("display", "none");
-		$('.desktop-two-center-four').css("display", "none");
-		$('.desktop-two-center-five').css("display", "none");
-		$(".desktop-two-button").addClass("white_bd1");
+	} else {}
+})
+$('#mySelect2').change(function() {
+	var select_value2 = $(this).children('option:selected').val()
+	if(select_value2 == 11) {
+		$('.news1').css("display", "block");
+		$('.news2').css("display", "none");
+		$('.news3').css("display", "none");
+	} else if(select_value2 == 22) {
+		$('.news2').css("display", "block");
+		$('.news1').css("display", "none");
+		$('.news3').css("display", "none");
+	} else if(select_value2 == 33) {
+		$('.news3').css("display", "block");
+		$('.news1').css("display", "none");
+		$('.news2').css("display", "none");
 	} else {}
 })
 
@@ -69,53 +52,33 @@ $(".input1").focus(function() {
 
 });
 
-$(".add").click(function() {
-	$(".city_table").show();
-})
-$(".city_table .button").click(function() {
-	$(".city_table").hide();
-	var val1 = $(".input1").val();
-	$.cookie("input1-1", val1, {
-		expires: 0.05
-	});
-	var MyCookie1 = $.cookie('input1-1');
-	//  $(".icon-index").html(MyCookie1+'</br>'+MyCookie2);
-	$(".select6").html(MyCookie1);
+var show1 = 0;
+$(".desktop-two-button").click(function() {
+	if(show1 == 0) {
+		$(".desktop-two-button").html("返回");
+		$(".desktop-two-button").addClass("white_bd");
+		setTimeout(function() {
+			$(".desktop-two-button").removeClass("white_bd");
+		}, 100);
+		$(".desktop-two-buttom").css("display", "none");
+		$(".shalou").css("display", "block");
+		$(".show-pic").css("display", "none");
+		setTimeout(function() {
+			$(".shalou").css("display", "none");
 
-	// 百度地图API功能 引入
-	var map = new BMap.Map("allmap");
-	var point = new BMap.Point(116.331398, 39.897445);
-	map.centerAndZoom(point, 11);
-	map.enableScrollWheelZoom(true);
+			$(".show-pic").fadeIn(3000);
 
-	var city = $("#cityName").val();
-	if(city != "") {
-		map.centerAndZoom(city, 11); // 用城市名设置地图中心点
+		}, 5000);
+		clearTimeout();
+		show1 = 1;
+	} else {
+		$(".desktop-two-button").html("数据汇总");
+		$(".desktop-two-buttom").css("display", "block");
+		$(".shalou").css("display", "none");
+		$(".show-pic").css("display", "none");
+		show1 = 0;
 	}
 
-})
-
-$(".desktop-two-button").click(function() {
-	$(".desktop-two-button").addClass("white_bd");
-	setTimeout(function() {
-		$(".desktop-two-button").removeClass("white_bd");
-	}, 100);
-	$(".desktop-two-center-one .news").css("display", "none");
-	$(".desktop-two-center-two .news").css("display", "none");
-	$(".desktop-two-center-three .news").css("display", "none");
-	$(".desktop-two-center-four .news").css("display", "none");
-	$(".desktop-two-center-five .news").css("display", "none");
-	$(".desktop-two-center-six .news").css("display", "none");
-
-	$(".shalou").css("display", "block");
-	$(".show-pic").css("display", "none");
-	setTimeout(function() {
-		$(".shalou").css("display", "none");
-
-		$(".show-pic").fadeIn(3000);
-
-	}, 5000);
-	clearTimeout();
 })
 
 //黑色区域
