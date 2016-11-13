@@ -25,21 +25,12 @@ var comNamess = [
 	["http://10.200.43.37/test/1014/zhsw2_main.html"], //13	园区水质管理
 	["http://10.200.43.37/test/1014/zhsw_main.html"], //14	智慧供水
 	["http://10.200.43.37/test/1014/lxsh_main.html"], //15	乐行上海
-	["http://10.200.43.37/test/1014/gdjt_main.html"], //16	智慧轨交
-	["http://10.200.43.37/test/1014/ZHJT-left.html"], //17	岸基监视雷达
-	["http://10.200.43.37/test/1014/yyy_main.html"], //18	云应用商店
-	["http://10.200.43.37/test/1014/gbw_main.html"], //19	智慧广播网
-	["http://10.200.43.37/test/1014/tcc_main.html"], //20  智能停车场
+	["#"], //16  桃浦区域地图
+	["http://jq22.com"], //17  九州云
+	["#"], //18  sxky
+	["http://10.200.43.37/six"], //19 桃浦科技智慧城管理系统点击
+	["http://www.baidu.com"] //20 重庆两江地图点击
 
-	["#"], //21  桃浦区域地图
-
-	["http://10.200.43.37/test/1014/jzy_main.html"], //22  九州云
-	["#"], //23  sxky
-
-	["http://10.200.43.37/six"], //24 桃浦科技智慧城管理系统点击
-	["http://10.200.43.42:8181/monitor/site/login.jsp"], //25 重庆两江地图点击
-
-	["#"] //???
 
 ];
 // Namespace - Module Pattern.
@@ -260,8 +251,8 @@ var JQD = (function($, window, undefined) {
 					console.log(y);
 
 					//					for(var i = 0, j = 0; i <= 21; i++, j++) {$(".if" + i).attr("src", comNamess[j]);}
-					var i = 21;
-					$(".if" + i).attr("src", comNamess[i]);
+					var i = 16;
+					$(".if" + i).attr("src", comNamess[16]);
 
 					// Show the taskbar button.
 					if($(x).is(':hidden')) {
@@ -297,8 +288,8 @@ var JQD = (function($, window, undefined) {
 					var y = $(x).find('a').attr('href');
 					console.log(y);
 
-					var i = 22;
-					$(".if" + i).attr("src", comNamess[25]);
+					var i = 17;
+					$(".if" + i).attr("src", comNamess[17]);
 
 					// Show the taskbar button.
 					if($(x).is(':hidden')) {
@@ -323,8 +314,8 @@ var JQD = (function($, window, undefined) {
 					var y = $(x).find('a').attr('href');
 					console.log(y);
 
-					var i = 23;
-					$(".if" + i).attr("src", comNamess[23]);
+					var i = 18;
+					$(".if" + i).attr("src", comNamess[18]);
 
 					// Show the taskbar button.
 					if($(x).is(':hidden')) {
@@ -348,8 +339,8 @@ var JQD = (function($, window, undefined) {
 
 						var y = $(x).find('a').attr('href');
 
-						var i = 24;
-						$(".if" + i).attr("src", comNamess[24]);
+						var i = 19;
+						$(".if" + i).attr("src", comNamess[19]);
 
 						// Show the taskbar button.
 						if($(x).is(':hidden')) {
@@ -376,8 +367,8 @@ var JQD = (function($, window, undefined) {
 					var y = $(x).find('a').attr('href');
 					console.log(y);
 
-					var i = 25;
-					$(".if" + i).attr("src", comNamess[25]);
+					var i = 20;
+					$(".if" + i).attr("src", comNamess[20]);
 					//document.getElementById("test_lep").innerHTML="此刻地址为："+comNamess[j];
 
 					// Show the taskbar button.
