@@ -1,6 +1,6 @@
 body {
 	/*background: url("../img/77.jpg") 0 0 repeat;*/
-	background: url(../img/bg.jpg) no-repeat center center fixed;
+	background: url(../img/bg2.jpg) no-repeat center center fixed;
 	background-size: 100% 100%;
 }
 
@@ -8,7 +8,7 @@ body {
     height: 330px;
     width: 400px;
     position: absolute;
-    top: 30%;
+    top: 54%;
     left: 50%;
     margin-top: -125px;
     margin-left: -205px;
@@ -64,7 +64,7 @@ input[type=password] {
 	height: 40px;
 	color: #fff;
 	/*text-shadow: 1px 1px 1px black;*/
-	background: rgba(0, 0, 0, 0.16);
+	background: rgba(255, 255, 255,0.28);
 	border: 0;
 	border-radius: 5px;
 	/*box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);*/

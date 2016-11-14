@@ -11,7 +11,7 @@
 		<div class="LoginWindow">
 				<form method="post" action="../copy-index.php" onsubmit="return user_input()" class="login">
 					<!--<h1 class="title">登录</h1>-->
-					<div><img src="img/tms_logo.png"></div><br><br>
+					<!--<div><img src="img/tms_logo.png"></div><br><br>-->
 					<p>
 						<input type="text" name="id" id="id" value="" placeholder="用户名">
 					</p>
