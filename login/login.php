@@ -9,7 +9,7 @@
 	<body>
 		<!--<div class="login_frame"></div>-->
 		<div class="LoginWindow">
-				<form method="post" action="../copy-index.php" onsubmit="return user_input()" class="login">
+				<form method="post" action="../index-shigong.php" onsubmit="return user_input()" class="login">
 					<!--<h1 class="title">登录</h1>-->
 					<!--<div><img src="img/tms_logo.png"></div><br><br>-->
 					<p>

@@ -24,8 +24,10 @@ select {
 	height: 66%;
 	background: #fff repeat;
 	border-radius: 20px;
-	z-index:4;
+	z-index: 4;
 }
+
+
 /*.show-pic span {
 	margin-top: 16%;
     font-size: 11px;
@@ -36,7 +38,6 @@ select {
     margin-left: -27%;
     cursor: pointer;
 }*/
-
 
 .desktop-two-top {
 	width: 90%;
@@ -52,11 +53,13 @@ select {
 	box-shadow: 0 0 5px #999;
 	cursor: pointer;
 }
+
 .desktop-two-buttom-top {
 	width: 90%;
 	height: 23%;
 	/*margin: 0 auto;*/
 }
+
 .desktop-two-buttom-top select {
 	width: 68%;
 	border-radius: 8px;
@@ -65,19 +68,20 @@ select {
 	box-shadow: 0 0 5px #999;
 	cursor: pointer;
 }
+
 .desktop-two-center {
 	width: 90%;
 	height: 43%;
 	margin: 5px auto;
 }
-.desktop-two-buttom{
+
+.desktop-two-buttom {
 	width: 90%;
 	height: 42%;
 	margin: 10px auto;
 	background: url(../img/new/right-bottom.png);
 	background-size: 100% 100%;
 }
-
 
 .desktop-two-center .map-img {
 	width: 100%;
@@ -101,14 +105,13 @@ select {
 	background-size: cover;
 }
 
-.desktop-two-buttom .news{
-    height: 77%;
-    line-height: 21px;
-    text-indent: 2em;
-    font-size: 10px;
-    padding: 2px;
+.desktop-two-buttom .news {
+	height: 77%;
+	line-height: 21px;
+	text-indent: 2em;
+	font-size: 10px;
+	padding: 2px;
 }
-
 
 .desktop-two-center .news p {
 	text-indent: 2em;
@@ -119,13 +122,13 @@ select {
 .shalou {
 	display: none;
 	border-radius: 7%;
-    overflow: hidden;
-    width: 83%;
-    height: 38%;
-    margin-top: 17px;
-    position: absolute;
-    top: 54%;
-    left: 9%;
+	overflow: hidden;
+	width: 83%;
+	height: 38%;
+	margin-top: 17px;
+	position: absolute;
+	top: 54%;
+	left: 9%;
 }
 
 .shalou span {
@@ -135,8 +138,8 @@ select {
 	color: white;
 	line-height: 20px;
 	position: absolute;
-    right: 21%;
-    bottom: 10%;
+	right: 21%;
+	bottom: 10%;
 }
 
 .button-icon {
@@ -149,7 +152,22 @@ select {
 	border: 0;
 	box-shadow: 0 0 8px #000;
 	/*background: #16325A;*/
-	background: rgba(255,255,255,0.5);
+	background: rgba(255, 255, 255, 0.5);
+	color: white;
+	cursor: pointer;
+}
+
+.button-icon2 {
+	position: absolute;
+	right: 0%;
+	top: 95.5%;
+	width: 3%;
+	height: 4%;
+	border-radius: 8px;
+	border: 0;
+	box-shadow: 0 0 8px #000;
+	/* background: #16325A; */
+	background: rgba(255, 255, 255, 0.5);
 	color: white;
 	cursor: pointer;
 }
@@ -184,26 +202,26 @@ select {
 	position: absolute;
 	text-align: center;
 	display: none;
-    width: 83%;
-    height: 38%;
-    position: absolute;
-    top: 58%;
-    text-align: center;
-    left: 9%;
-    border-radius: 6%;
-    background-image: url(../img/hand-bg.jpg);
-    background-size: 100% 100%;
+	width: 83%;
+	height: 38%;
+	position: absolute;
+	top: 58%;
+	text-align: center;
+	left: 9%;
+	border-radius: 6%;
+	background-image: url(../img/hand-bg.jpg);
+	background-size: 100% 100%;
 }
 
 .show-pic a {
 	margin-top: 16%;
-    font-size: 11px;
-    font-weight: bold;
-    padding: 6px 1px 6px;
-    text-align: center;
-    width: 56%;
-    margin-left: -27%;
-    cursor: pointer;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 6px 1px 6px;
+	text-align: center;
+	width: 56%;
+	margin-left: -27%;
+	cursor: pointer;
 }
 
 .icon1-all {
@@ -236,7 +254,6 @@ select {
 	background: rgb(58, 157, 193);
 	cursor: pointer;
 }
-
 
 .desktop-two-header {
 	height: 120px;

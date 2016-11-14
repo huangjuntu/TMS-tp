@@ -83,39 +83,39 @@
 
 					<a class="abs icon" id="leap3" style="left:2%;top:17%;" href="#icon_dock_znldw">
 						<img class="img_icon" src="img/new/img9-1.png" src1="img/new/img9-1.png" src2="img/new/img9-1b.png" />
-						<h3>托马斯应用1</h3>
+						<h3>劳务管理</h3>
 					</a>
 
 					<a class="abs icon" id="leap4" style="left:8%;top:17%;" href="#icon_dock_zhsy">
 						<img class="img_icon" src="img/new/img10.png" src1="img/new/img10.png" src2="img/new/img10b.png" />
-						<h3>托马斯应用2</h3>
+						<h3>塔吊监控管理</h3>
 					</a>
 
 					<a class="abs icon" id="leap5" style="left:2%;top:33%;" href="#icon_dock_zhjt">
 						<img class="img_icon" src="img/new/img6.png" src1="img/new/img6.png" src2="img/new/img6b.png" />
-						<h3>605地块应用1</h3>
+						<h3>进出门禁管理</h3>
 					</a>
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
 						<img class="img_icon" src="img/new/img11.png" src1="img/new/img11.png" src2="img/new/img11b.png" />
-						<h3>605地块应用2</h3>
+						<h3>工地粉尘监控</h3>
 					</a>
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
 						<img class="img_icon" src="img/new/img12.png" src1="img/new/img12.png" src2="img/new/img12b.png" />
-						<h3>地下管廊应用1</h3>
+						<h3>工地噪音管理</h3>
 					</a>
 					<a class="abs icon" id="leap8" style="left:8%;top:49%;" href="#icon_dock_jianzhu">
 						<img class="img_icon" src="img/new/img5.png" src1="img/new/img5.png" src2="img/new/img5b.png" />
-						<h3>地下管廊应用2</h3>
+						<h3>安全隐患管理</h3>
 					</a>
 					<a class="abs icon" id="leap9" style="left:2%;top:65%;" href="#icon_dock_bdc">
 						<img class="img_icon" src="img/new/img3.png" src1="img/new/img3.png" src2="img/new/img3b.png" />
-						<h3>地下管廊应用3</h3>
+						<h3>整改与罚款</h3>
 					</a>
 					<a class="abs icon" id="leap10" style="left:8%;top:65%;" href="#icon_dock_bank">
 						<img class="img_icon" src="img/new/img4.png" src1="img/new/img4.png" src2="img/new/img4b.png" />
-						<h3>地下管廊应用4</h3>
+						<h3>通讯录管理</h3>
 					</a>
 					<!--十个图标加入-->
 					<a class="abs icon" id="leap11" style="left:2%;top:81%;" href="#icon_dock_11">
@@ -125,7 +125,7 @@
 
 					<a class="abs icon" id="leap12" style="left:8%;top:81%;" href="#icon_dock_12">
 						<img class="img_icon" src="img/new/img12-1.png" src1="img/new/img12-1.png" src2="img/new/img12-1b.png" />
-						<h3>双创空间</h3>
+						<h3>安全教育管理</h3>
 					</a>
 
 					<a class="abs icon" id="leap13" style="left:14%;top:1%;" href="#icon_dock_13">
@@ -135,12 +135,12 @@
 
 					<a class="abs icon" id="leap14" style="left:14%;top:17%;" href="#icon_dock_14">
 						<img class="img_icon" src="img/new/img14.png" src1="img/new/img14.png" src2="img/new/img14b.png" />
-						<h3>托马斯应用3</h3>
+						<h3>升降机监控管理</h3>
 					</a>
 
 					<a class="abs icon" id="leap15" style="left:14%;top:33%;" href="#icon_dock_15">
 						<img class="img_icon" src="img/new/img15.png" src1="img/new/img15.png" src2="img/new/img15b.png" />
-						<h3>605地块应用3</h3>
+						<h3>工地沉降监控</h3>
 					</a>
 
 					<!--十个图标加入结束-->
@@ -156,35 +156,35 @@
 						</div>
 						<div class="copy3 icon-copy">
 							<span><img src="img/new/img9-1.png"/></span>
-							<h3>托马斯应用1</h3>
+							<h3>劳务管理</h3>
 						</div>
 						<div class="copy4 icon-copy">
 							<span><img src="img/new/img10.png"/></span>
-							<h3>托马斯应用2</h3>
+							<h3>塔吊监控管理</h3>
 						</div>
 						<div class="copy5 icon-copy">
 							<span><img src="img/new/img6.png"/></span>
-							<h3>605地块应用1</h3>
+							<h3>进出门禁管理</h3>
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
-							<h3>605地块应用2</h3>
+							<h3>工地粉尘监控</h3>
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
-							<h3>地下管廊应用1</h3>
+							<h3>工地噪音管理</h3>
 						</div>
 						<div class="copy8 icon-copy">
 							<span><img src="img/new/img5.png"/></span>
-							<h3>地下管廊应用2</h3>
+							<h3>安全隐患管理</h3>
 						</div>
 						<div class="copy9 icon-copy">
 							<span><img src="img/new/img3.png"/></span>
-							<h3>地下管廊应用3</h3>
+							<h3>整改与罚款</h3>
 						</div>
 						<div class="copy10 icon-copy">
 							<span><img src="img/new/img4.png"/></span>
-							<h3>地下管廊应用4</h3>
+							<h3>通讯录管理</h3>
 						</div>
 						<div class="copy11 icon-copy">
 							<span><img src="img/new/img11-1.png"/></span>
@@ -192,7 +192,7 @@
 						</div>
 						<div class="copy12 icon-copy">
 							<span><img src="img/new/img12-1.png"/></span>
-							<h3>双创空间</h3>
+							<h3>安全教育管理</h3>
 						</div>
 						<div class="copy13 icon-copy">
 							<span><img src="img/new/img13.png"/></span>
@@ -200,11 +200,11 @@
 						</div>
 						<div class="copy14 icon-copy">
 							<span><img src="img/new/img14.png"/></span>
-							<h3>托马斯应用3</h3>
+							<h3>升降机监控管理</h3>
 						</div>
 						<div class="copy15 icon-copy">
 							<span><img src="img/new/img15.png"/></span>
-							<h3>605地块应用3</h3>
+							<h3>工地沉降监控</h3>
 						</div>
 
 					</div>
@@ -275,7 +275,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									托马斯应用2
+									塔吊监控管理
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -285,7 +285,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="4" class="if4" id="IframeID4" src=""></iframe>
 							<div class="abs window_bottom">
-								托马斯应用2
+								塔吊监控管理
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -295,7 +295,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									605地块应用1
+									进出门禁管理
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -305,7 +305,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="5" class="if5" id="IframeID5" src=""></iframe>
 							<div class="abs window_bottom">
-								605地块应用1
+								进出门禁管理
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -315,7 +315,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									605地块应用2
+									工地粉尘监控
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -326,7 +326,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="6" class="if6" id="IframeID6" src=""></iframe>
 							<div class="abs window_bottom">
-								605地块应用2
+								工地粉尘监控
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -336,7 +336,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									地下管廊应用1
+									工地噪音管理
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -346,7 +346,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="7" class="if7" id="IframeID7" src=""></iframe>
 							<div class="abs window_bottom">
-								地下管廊应用1
+								工地噪音管理
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -356,7 +356,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									地下管廊应用2
+									安全隐患管理
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -366,7 +366,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="8" class="if8" id="IframeID8" src=""></iframe>
 							<div class="abs window_bottom">
-								地下管廊应用2
+								安全隐患管理
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -392,13 +392,13 @@
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
 					</div>
-					<!--第十个图标-地下管廊应用4-->
+					<!--第十个图标-通讯录管理-->
 					<div id="window_bank" class="abs window">
 						<div class="abs window_inner">
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									地下管廊应用4
+									通讯录管理
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -408,7 +408,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="10" class="if10" id="IframeID10" src=""></iframe>
 							<div class="abs window_bottom">
-								地下管廊应用4
+								通讯录管理
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -1225,11 +1225,12 @@
 			<div id="desktop-two">
 				<div class="desktop-two-top">
 					<select id="mySelect">
-						<option value="1" class="shanghai">托马斯学校</option>
-						<option value="2">605地块</option>
-						<option value="3">地下管廊</option>
+						<option value="1" class="shanghai">托马斯学校工地</option>
+						<option value="2">605地块工地</option>
+						<option value="3">地下管廊工地</option>
+						<option value="4">......</option>
 					</select>
-					<button class="desktop-two-button">数据汇总</button>
+					<button class="desktop-two-button">应用集成</button>
 				</div>
 				<!--select右侧点击111的区域-->
 				<div class="desktop-two-center desktop-two-center-one  " style="display: block;">
@@ -1248,6 +1249,7 @@
 				<div class="desktop-two-buttom">
 					<div class="desktop-two-buttom-top">
 						<select id="mySelect2">
+							<option value="00">桃浦科技智慧城</option>
 							<option value="11">硬件部署</option>
 							<option value="22">资源整合</option>
 							<option value="33">应用整合</option>
@@ -1256,7 +1258,10 @@
 							<option value="66">大数据分析</option>
 						</select>
 					</div>
-					<div class="news1 news" style="display: block;">
+					<div class="news0 news" style="display: block;">
+						坚持以人为本、智慧引领，并依托政策优势及“科技智慧”定位，将桃浦科技智慧城打造成集科技、智慧、生态于一体的新一代智慧之城。
+					</div>
+					<div class="news1 news" style="display: none;">
 						智慧城市操作系统要求基于业界最新的“超融合架构”(Hyper-converged architecture)搭建，具有“积木堆叠式”的一站式弹性扩容的特点；可随着业务的扩张按需扩容。
 					</div>
 					<div class="news2 news" style="display: none;">
@@ -1321,7 +1326,7 @@
 			</div>
 			<!--右侧展示页面结束-->
 			<button class="button-icon" id="button-icon">开启系统整合</button>
-
+			<button class="button-icon2" id="button-icon2">返回</button>
 		</div>
 		<!--管理者模式end-->
 
