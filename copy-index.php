@@ -1248,27 +1248,35 @@
 				<div class="desktop-two-buttom">
 					<div class="desktop-two-buttom-top">
 						<select id="mySelect2">
-							<option value="11">应用SaaS化</option>
-							<option value="22">资源模板化</option>
-							<option value="33">应用联动化</option>
-							<option value="44">数据整合化</option>
-							<option value="55">界面统一化</option>
+							<option value="11">硬件部署</option>
+							<option value="22">资源整合</option>
+							<option value="33">应用整合</option>
+							<option value="44">数据整合</option>
+							<option value="55">管理界面整合</option>
+							<option value="66">大数据分析</option>
 						</select>
 					</div>
 					<div class="news1 news" style="display: block;">
-						将传统桌面软件迁移至云端，可以直接SaaS化和Web化
+						智慧城市操作系统要求基于业界最新的“超融合架构”(Hyper-converged architecture)搭建，具有“积木堆叠式”的一站式弹性扩容的特点；可随着业务的扩张按需扩容。
 					</div>
 					<div class="news2 news" style="display: none;">
-						智慧城市应用的模板格式的标准化制定，制定镜像和模板标准化
+						传统智慧城市应用建设要求每个应用运行在独立的服务器上，服务器的配置依据的是应用的峰值需求，这样平时大量闲置资源无法被其他需要的应用所使用。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 智慧城市操作系统运用云计算技术将计算、存储和网络资源池化，按需分配。
+
 					</div>
 					<div class="news3 news" style="display: none;">
-						智慧城市操作系统提供一个简单的图形化操作界面，让管理员可以很容易地将两类应用进行逻辑编程，实现“能感知，会响应”的初级智慧
+						各城市应用根据公共平台的标准开放Web服务接口，进行逻辑联动，解决智慧城市建设中的“烟囱式”应用问题。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智慧城市操作系统提供一个简单的图形化操作界面，让管理员可以很容易地将两类应用进行逻辑编程，实现“能感知，会响应”的初级智慧。
+
 					</div>
 					<div class="news4 news" style="display: none;">
-						数据通过REST API标准接口存储到统一的数据池，元数据定义的标准化(数据源，创建时间，格式)
+						数据通过REST API标准接口存储到统一的数据湖（Data Lake）中 从Data Lake中取出数据做ETL转换到各种数据库 数据metadata定义的标准化(数据源，创建时间，压缩格式*，文件格式) 将应用数据尽可能多地暴露出来。
+
 					</div>
 					<div class="news5 news" style="display: none;">
-						GUI访问的url标准，2D/3D界面切换，统一身份认证，将相关应用整合到统一管理界面上，让管理员快捷、高效地进行城市管理
+						随着智慧城市应用的增多，管理员需要打开多个界面，输入多种密码，适应各种用法，管理复杂性也随之增加 将相关应用整合到统一管理界面上，让管理员快捷、有效、高效地进行城市管理。
+					</div>
+					<div class="news6 news" style="display: none;">
+						对第四步形成的统一存储数据进行分布式数据挖掘和机器学习。 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智慧城市操作系统要求支持海量城市数据存储与时空快速数据快速检索 智慧城市操作系统要求支持基于Hadoop和Spark的分布式计算框架 通过大数据分析催生新的商业机会。
+
 					</div>
 				</div>
 
