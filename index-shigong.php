@@ -1326,7 +1326,7 @@
 			</div>
 			<!--右侧展示页面结束-->
 			<button class="button-icon" id="button-icon">开启系统整合</button>
-			<button class="button-icon2" id="button-icon2">返回</button>
+			<button class="button-icon2" id="button-icon2">运营版</button>
 		</div>
 		<!--管理者模式end-->
 
