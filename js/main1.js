@@ -30,30 +30,42 @@ $('#mySelect2').change(function() {
 		$('.news3').css("display", "none");
 		$('.news4').css("display", "none");
 		$('.news5').css("display", "none");
+		$('.news6').css("display", "none");
 	} else if(select_value2 == 22) {
 		$('.news2').css("display", "block");
 		$('.news1').css("display", "none");
 		$('.news3').css("display", "none");
 		$('.news4').css("display", "none");
 		$('.news5').css("display", "none");
+		$('.news6').css("display", "none");
 	} else if(select_value2 == 33) {
 		$('.news3').css("display", "block");
 		$('.news1').css("display", "none");
 		$('.news2').css("display", "none");
 		$('.news4').css("display", "none");
 		$('.news5').css("display", "none");
+		$('.news6').css("display", "none");
 	} else if(select_value2 == 44) {
 		$('.news4').css("display", "block");
 		$('.news1').css("display", "none");
 		$('.news2').css("display", "none");
 		$('.news3').css("display", "none");
 		$('.news5').css("display", "none");
+		$('.news6').css("display", "none");
 	} else if(select_value2 == 55) {
 		$('.news5').css("display", "block");
 		$('.news1').css("display", "none");
 		$('.news2').css("display", "none");
 		$('.news3').css("display", "none");
 		$('.news4').css("display", "none");
+		$('.news6').css("display", "none");
+	}else if(select_value2 == 66) {
+		$('.news6').css("display", "block");
+		$('.news1').css("display", "none");
+		$('.news2').css("display", "none");
+		$('.news3').css("display", "none");
+		$('.news4').css("display", "none");
+		$('.news5').css("display", "none");
 	} else {}
 })
 
