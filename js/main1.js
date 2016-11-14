@@ -28,14 +28,32 @@ $('#mySelect2').change(function() {
 		$('.news1').css("display", "block");
 		$('.news2').css("display", "none");
 		$('.news3').css("display", "none");
+		$('.news4').css("display", "none");
+		$('.news5').css("display", "none");
 	} else if(select_value2 == 22) {
 		$('.news2').css("display", "block");
 		$('.news1').css("display", "none");
 		$('.news3').css("display", "none");
+		$('.news4').css("display", "none");
+		$('.news5').css("display", "none");
 	} else if(select_value2 == 33) {
 		$('.news3').css("display", "block");
 		$('.news1').css("display", "none");
 		$('.news2').css("display", "none");
+		$('.news4').css("display", "none");
+		$('.news5').css("display", "none");
+	} else if(select_value2 == 44) {
+		$('.news4').css("display", "block");
+		$('.news1').css("display", "none");
+		$('.news2').css("display", "none");
+		$('.news3').css("display", "none");
+		$('.news5').css("display", "none");
+	} else if(select_value2 == 55) {
+		$('.news5').css("display", "block");
+		$('.news1').css("display", "none");
+		$('.news2').css("display", "none");
+		$('.news3').css("display", "none");
+		$('.news4').css("display", "none");
 	} else {}
 })
 
@@ -52,10 +70,10 @@ $(".input1").focus(function() {
 
 });
 
-var show1 = 0;
+//var show1 = 0;
 $(".desktop-two-button").click(function() {
-	if(show1 == 0) {
-		$(".desktop-two-button").html("返回");
+//	if(show1 == 0) {
+//		$(".desktop-two-button").html("返回");
 		$(".desktop-two-button").addClass("white_bd");
 		setTimeout(function() {
 			$(".desktop-two-button").removeClass("white_bd");
@@ -70,14 +88,14 @@ $(".desktop-two-button").click(function() {
 
 		}, 5000);
 		clearTimeout();
-		show1 = 1;
-	} else {
-		$(".desktop-two-button").html("数据汇总");
-		$(".desktop-two-buttom").css("display", "block");
-		$(".shalou").css("display", "none");
-		$(".show-pic").css("display", "none");
-		show1 = 0;
-	}
+//		show1 = 1;
+//	} else {
+//		$(".desktop-two-button").html("数据汇总");
+//		$(".desktop-two-buttom").css("display", "block");
+//		$(".shalou").css("display", "none");
+//		$(".show-pic").css("display", "none");
+//		show1 = 0;
+//	}
 
 })
 
