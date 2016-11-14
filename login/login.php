@@ -10,26 +10,15 @@
 		<!--<div class="login_frame"></div>-->
 		<div class="LoginWindow">
 				<form method="post" action="../copy-index.php" onsubmit="return user_input()" class="login">
-					
-					<h1 class="title">Login In</h1>
-					
+					<h1 class="title">登录</h1>
 					<p>
-						<!--<label for="login">帐号:</label>-->
-						<input type="text" name="id" id="id" value="" placeholder="Username">
+						<input type="text" name="id" id="id" value="" placeholder="用户名">
 					</p>
 					<p>
-						<!--<label for="password">密码:</label>-->
-						<input type="password" name="password" id="password" value="" placeholder="Password">
+						<input type="password" name="password" id="password" value="" placeholder="密码">
 					</p>
-					<!--<p class="login-submit">
-						<button type="submit" class="login-button">Login</button>
-					</p>-->
-					<button type="submit" class="btn-submit">Sign In</button>
+					<button type="submit" class="btn-submit">进入</button>
 				</form>
-				
-				<!--<p class="registration">
-					<a href="http://www.baidu.com">注册</a>
-				</p>-->
 		</div>
 		<!--<div id="timeArea">
 			<script>

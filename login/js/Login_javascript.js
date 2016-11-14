@@ -6,11 +6,16 @@ function user_input(){
 	if(name=="" || password==""){
 		alert("用户名或密码不能为空！");
 		return false;
+		}else if(name!='admin'&& password!="admin"){
+			alert("用户名或密码不正确！");
+			return false;
 		}else{
 			return true;
-//			window.location.href="http：www.baidu.com";
 			}	
 	}
+
+
+
 
 //最下面加的事件动画
 function LoadBlogParts(){
