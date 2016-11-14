@@ -143,28 +143,6 @@
 						<h3>乐行上海</h3>
 					</a>
 
-					<a class="abs icon" id="leap16" style="left:14%;top:49%;" href="#icon_dock_16">
-						<img class="img_icon" src="img/new/img16.png" src1="img/new/img16.png" src2="img/new/img16b.png" />
-						<h3>智慧轨交</h3>
-					</a>
-
-					<a class="abs icon" id="leap17" style="left:14%;top:65%;" href="#icon_dock_17">
-						<img class="img_icon" src="img/new/img17.png" src1="img/new/img17.png" src2="img/new/img17b.png" />
-						<h3>岸基监视雷达</h3>
-					</a>
-					<a class="abs icon" id="leap18" style="left:14%;top:81%;" href="#icon_dock_18">
-						<img class="img_icon" src="img/new/img18.png" src1="img/new/img18.png" src2="img/new/img18b.png" />
-						<h3>云应用商店</h3>
-					</a>
-					<a class="abs icon" id="leap19" style="left:20%;top:1%;" href="#icon_dock_19">
-						<img class="img_icon" src="img/new/img19.png" src1="img/new/img19.png" src2="img/new/img19b.png" />
-						<h3>智慧广播网</h3>
-					</a>
-					<a class="abs icon" id="leap20" style="left:20%;top:17%;" href="#icon_dock_20">
-						<img class="img_icon" src="img/new/img20.png" src1="img/new/img20.png" src2="img/new/img20.png" />
-						<h3>智能停车场</h3>
-					</a>
-
 					<!--十个图标加入结束-->
 					<!--复制的图片-->
 					<div class="jq22">
@@ -228,26 +206,7 @@
 							<span><img src="img/new/img15.png"/></span>
 							<h3>乐行上海</h3>
 						</div>
-						<div class="copy16 icon-copy">
-							<span><img src="img/new/img16.png"/></span>
-							<h3>智慧轨交</h3>
-						</div>
-						<div class="copy17 icon-copy">
-							<span><img src="img/new/img17.png"/></span>
-							<h3>岸基监视雷达</h3>
-						</div>
-						<div class="copy18 icon-copy">
-							<span><img src="img/new/img18.png"/></span>
-							<h3>云应用商店</h3>
-						</div>
-						<div class="copy19 icon-copy">
-							<span><img src="img/new/img19.png"/></span>
-							<h3>智慧广播网</h3>
-						</div>
-						<div class="copy20 icon-copy">
-							<span><img src="img/new/img20.png"/></span>
-							<h3>智能停车场</h3>
-						</div>
+
 					</div>
 					<!--桌面图标结束-->
 					<!--打开桌面图标窗口内容begin-->
@@ -559,111 +518,6 @@
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
 					</div>
-					<!--第16个-->
-					<div id="window_16" class="abs window">
-						<div class="abs window_inner">
-							<div class="window_top">
-								<span class="float_left">
-									<img src="img/icons/icon_16_computer.png" />
-									Computer16
-								</span>
-								<span class="float_right">
-									<a href="#" class="window_min"></a>
-									<a href="#" class="window_resize"></a>
-									<a href="#icon_dock_16" class="window_close" id="window_close" ></a>
-								</span>
-							</div>
-							<iframe width="99.5%" height="94%" orderr="16" class="if16" id="IframeID16" src=""></iframe>
-							<div class="abs window_bottom">
-								第16个
-							</div>
-						</div>
-						<span class="abs ui-resizable-handle ui-resizable-se"></span>
-					</div>
-					<!--第17个-->
-					<div id="window_17" class="abs window">
-						<div class="abs window_inner">
-							<div class="window_top">
-								<span class="float_left">
-									<img src="img/icons/icon_16_computer.png" />
-									Computer17
-								</span>
-								<span class="float_right">
-									<a href="#" class="window_min"></a>
-									<a href="#" class="window_resize"></a>
-									<a href="#icon_dock_17" class="window_close" id="window_close" ></a>
-								</span>
-							</div>
-							<iframe width="99.5%" height="94%" orderr="17" class="if17" id="IframeID17" src=""></iframe>
-							<div class="abs window_bottom">
-								第17个
-							</div>
-						</div>
-						<span class="abs ui-resizable-handle ui-resizable-se"></span>
-					</div>
-					<!--第18个-->
-					<div id="window_18" class="abs window">
-						<div class="abs window_inner">
-							<div class="window_top">
-								<span class="float_left">
-									<img src="img/icons/icon_16_computer.png" />
-									Computer18
-								</span>
-								<span class="float_right">
-									<a href="#" class="window_min"></a>
-									<a href="#" class="window_resize"></a>
-									<a href="#icon_dock_18" class="window_close" id="window_close" ></a>
-								</span>
-							</div>
-							<iframe width="99.5%" height="94%" orderr="18" class="if18" id="IframeID18" src=""></iframe>
-							<div class="abs window_bottom">
-								第18个
-							</div>
-						</div>
-						<span class="abs ui-resizable-handle ui-resizable-se"></span>
-					</div>
-					<!--第19个-->
-					<div id="window_19" class="abs window">
-						<div class="abs window_inner">
-							<div class="window_top">
-								<span class="float_left">
-									<img src="img/icons/icon_16_computer.png" />
-									Computer19
-								</span>
-								<span class="float_right">
-									<a href="#" class="window_min"></a>
-									<a href="#" class="window_resize"></a>
-									<a href="#icon_dock_19" class="window_close" id="window_close" ></a>
-								</span>
-							</div>
-							<iframe width="99.5%" height="94%" orderr="19" class="if19" id="IframeID19" src=""></iframe>
-							<div class="abs window_bottom">
-								第19个
-							</div>
-						</div>
-						<span class="abs ui-resizable-handle ui-resizable-se"></span>
-					</div>
-					<!--第20个-->
-					<div id="window_20" class="abs window">
-						<div class="abs window_inner">
-							<div class="window_top">
-								<span class="float_left">
-									<img src="img/icons/icon_16_computer.png" />
-									Computer20
-								</span>
-								<span class="float_right">
-									<a href="#" class="window_min"></a>
-									<a href="#" class="window_resize"></a>
-									<a href="#icon_dock_20" class="window_close" id="window_close" ></a>
-								</span>
-							</div>
-							<iframe width="99.5%" height="94%" orderr="20" class="if20" id="IframeID20" src=""></iframe>
-							<div class="abs window_bottom">
-								第20个
-							</div>
-						</div>
-						<span class="abs ui-resizable-handle ui-resizable-se"></span>
-					</div>
 
 					<!--左下角点击菜单的添加：智慧编程点击出现begin-->
 					<div id="window_biancheng" class="abs window">
@@ -700,7 +554,7 @@
 									<a href="#icon_dock_jiuzhouyun" class="window_close" id="window_close"></a>
 								</span>
 							</div>
-							<iframe width="99.5%" height="94%" orderr="22" class="if22" id="IframeID22" src=""></iframe>
+							<iframe width="99.5%" height="94%" orderr="17" class="if17" id="IframeID17" src=""></iframe>
 							<div class="abs window_bottom">
 								九州云
 							</div>
@@ -721,7 +575,7 @@
 									<a href="#icon_dock_sxky" class="window_close" id="window_close"></a>
 								</span>
 							</div>
-							<iframe width="99.5%" height="94%" orderr="23" class="if23" id="IframeID23" src=""></iframe>
+							<iframe width="99.5%" height="94%" orderr="18" class="if18" id="IframeID18" src=""></iframe>
 							<div class="abs window_bottom">
 								sxky
 							</div>
@@ -742,7 +596,7 @@
 									<a href="#icon_dock_map1" class="window_close tp_close" id="window_close"></a>
 								</span>
 							</div>
-							<iframe width="99.5%" height="94%" orderr="21" class="if21" id="IframeID21" src=""></iframe>
+							<iframe width="99.5%" height="94%" orderr="16" class="if16" id="IframeID16" src=""></iframe>
 							<div class="abs window_bottom">
 								桃浦地图
 							</div>
@@ -763,7 +617,7 @@
 									<a href="#icon_dock_cqlj" class="window_close" id="window_close"></a>
 								</span>
 							</div>
-							<iframe width="99.5%" height="94%" orderr="25" class="if25" id="IframeID25" src=""></iframe>
+							<iframe width="99.5%" height="94%" orderr="20" class="if20" id="IframeID20" src=""></iframe>
 							<div class="abs window_bottom">
 								重庆两江
 							</div>
@@ -784,7 +638,7 @@
 									<a href="#icon_dock_tpkj" class="window_close" id="window_close"></a>
 								</span>
 							</div>
-							<iframe width="99.5%" height="94%" orderr="24" class="if24" id="IframeID24" src=""></iframe>
+							<iframe width="99.5%" height="94%" orderr="19" class="if19" id="IframeID19" src=""></iframe>
 							<div class="abs window_bottom">
 								桃浦科技智慧城
 							</div>
@@ -871,31 +725,6 @@
 						<li id="icon_dock_15">
 							<a href="#window_15">
 								<img src="img/icons/icon_32_computer.png" /> 15
-							</a>
-						</li>
-						<li id="icon_dock_16">
-							<a href="#window_16">
-								<img src="img/icons/icon_32_computer.png" /> 16
-							</a>
-						</li>
-						<li id="icon_dock_17">
-							<a href="#window_17">
-								<img src="img/icons/icon_32_computer.png" /> 17
-							</a>
-						</li>
-						<li id="icon_dock_18">
-							<a href="#window_18">
-								<img src="img/icons/icon_32_computer.png" /> 18
-							</a>
-						</li>
-						<li id="icon_dock_19">
-							<a href="#window_19">
-								<img src="img/icons/icon_32_computer.png" /> 19
-							</a>
-						</li>
-						<li id="icon_dock_20">
-							<a href="#window_20">
-								<img src="img/icons/icon_32_computer.png" /> 20
 							</a>
 						</li>
 						<li id="icon_dock_biancheng">
@@ -1396,29 +1225,58 @@
 			<div id="desktop-two">
 				<div class="desktop-two-top">
 					<select id="mySelect">
-						<option value="1" class="shanghai">桃浦科技城</option>
-						<option value="2">金领之都</option>
-						<option value="3">重庆两江</option>
-						<option value="4">银川</option>
-						<option value="5">仪电总部大楼</option>
-						<option value="6" class="select6">- - - - - - 增加 - - - - - - </option>
+						<option value="1" class="shanghai">托马斯学校</option>
+						<option value="2">605地块</option>
+						<option value="3">地下管廊</option>
 					</select>
-					
 					<button class="desktop-two-button">数据汇总</button>
-					<div class="add">⊕</div>
-					<div class="city_table">
-						<span>请输入城市名称：</span>
-						<input type="text" class="input1" id="cityName"/>
-						<input type="button" value="查询" onclick="theLocation()" class="button"/>
-					</div>
 				</div>
-				<!--select右侧点击桃浦出现的区域-->
-				<div class="desktop-two-center-one desktop-two-center " style="display: block;">
+				<!--select右侧点击111的区域-->
+				<div class="desktop-two-center desktop-two-center-one  " style="display: block;">
 					<div class="map-img map1" href="#icon_dock_map1" style="cursor: pointer;">
 						<div class="dropzone"></div>
 					</div>
-					<div class="news" style="display: block;">
-						<video src="img/welcome/welcome_video.mp4" autoplay="autoplay" loop="loop" width="100%" height="100%"></video>
+				</div>
+				<!--select右侧点击222的区域-->
+				<div class=" desktop-two-center desktop-two-center-two " style="display: none;">
+					<div class="map-img map2"></div>
+				</div>
+				<!--select右侧点击333的区域-->
+				<div class="desktop-two-center desktop-two-center-three" style="display: none;">
+					<div class="map-img cqlj map3" href="#icon_dock_cqlj" style="cursor: pointer;"></div>
+				</div>
+				<div class="desktop-two-buttom">
+					<div class="desktop-two-buttom-top">
+						<select id="mySelect2">
+							<option value="11">应用集中化(云化)</option>
+							<option value="22">数据集中化</option>
+							<option value="33">管理集中化</option>
+						</select>
+					</div>
+					<div class="news1 news" style="display: block;">
+						区委书记施小琳，区委副书记、区长程向民， 副区长钱雨晴及美国安生文教交流基金会执行副主席等参加签约仪式。 极具社会影响力的精品国际化学校。
+					</div>
+					<div class="news2 news" style="display: none;">
+						12月13日上午，桃浦科技智慧城举行上海托马斯实验学校落户签约仪式。安生教育集团将在引进国际优质教育项目上不断努力追求，携手创办一所世界一流、极具社会影响力的精品国际化学校。
+					</div>
+					<div class="news3 news" style="display: none;">
+						12月13日上午，桃浦科技智慧城举行上海托马斯实验学校落户签约仪式。区委书记施小...
+					</div>
+				</div>
+
+				<div class="shalou">
+					<img src="img/shalou.jpg" width="100%" height="100%" />
+					<span>数据整合中。。。</span>
+				</div>
+				<div class="show-pic">
+					<a class="abs icon ui-draggable ui-draggable-handle tpkj1" href="#icon_dock_tpkj" id="leap24">
+						<img src="img/logo-icon.jpg" style="width: 50%; cursor: pointer;">
+						<span style="display: block;">桃浦科技智慧城管理系统</span>
+					</a>
+				</div>
+
+				<!--<div class="news" style="display: block;">
+						111111
 					</div>
 
 					<div class="shalou">
@@ -1430,68 +1288,26 @@
 							<img src="img/logo-icon.jpg" style="width: 50%; cursor: pointer;">
 							<span style="display: block;">桃浦科技智慧城管理系统</span>
 						</a>
-					</div>
-				</div>
-				<!--select右侧点击金领之都出现的区域-->
-				<div class="desktop-two-center-two desktop-two-center" style="display: none;">
-					<div class="map-img"></div>
-					<div class="news" style="display: block;">
-						<video src="img/welcome/welcome_video.mp4" autoplay="autoplay" loop="loop" width="100%" height="100%"></video>
+					</div>-->
+				<!--<div class="news" style="display: block;">
+						222222
 					</div>
 					<div class="shalou">
 						<span>数据整合中。。。。</span>
-					</div>
-				</div>
-				<!--select右侧点击重庆出现的区域-->
-				<div class="desktop-two-center-three desktop-two-center" style="display: none;">
-					<div class="map-img cqlj" href="#icon_dock_cqlj" style="cursor: pointer;">
-					</div>
-					<div class="news" style="display: block;">
-						<video src="img/welcome/welcome_video.mp4" autoplay="autoplay" loop="loop" width="100%" height="100%"></video>
+					</div>-->
+				<!--<div class="news" style="display: block;">
+						333333
 					</div>
 					<div class="shalou">
 						<span>数据整合中。。。。</span>
-					</div>
-				</div>
-				<!--select右侧点击银川出现的区域-->
-				<div class="desktop-two-center-four desktop-two-center" style="display: none;">
-					<div class="map-img">
-					</div>
-					<div class="news" style="display: block;">
-						<video src="img/welcome/welcome_video.mp4" autoplay="autoplay" loop="loop" width="100%" height="100%"></video>
-					</div>
-					<div class="shalou">
-						<span>数据整合中。。。。</span>
-					</div>
-				</div>
-				<!--select右侧点击仪电总部大楼出现的区域-->
-				<div class="desktop-two-center-five desktop-two-center" style="display: none;">
-					<div class="map-img">
-					</div>
-					<div class="news" style="display: block;">
-						<video src="img/welcome/welcome_video.mp4" autoplay="autoplay" loop="loop" width="100%" height="100%"></video>
-					</div>
-					<div class="shalou">
-						<span>数据整合中。。。。</span>
-					</div>
-				</div>
-				
-				<div class="desktop-two-center-six desktop-two-center" style="display: none;">
-					<div class="map-img" id="allmap" >点击右上角按钮添加</div>
-					<div class="news" style="display: block;">
-						<video src="img/welcome/welcome_video.mp4" autoplay="autoplay" loop="loop" width="100%" height="100%"></video>
-					</div>
-					<div class="shalou">
-						<span>数据整合中。。。。</span>
-					</div>
-				</div>
+					</div>-->
+
 			</div>
 			<!--右侧展示页面结束-->
 			<button class="button-icon" id="button-icon">开启系统整合</button>
 
 		</div>
 		<!--管理者模式end-->
-
 
 		<script type="text/javascript" src="js/jquery.js"></script>
 		<script type="text/javascript" src="js/jquery.desktop.js"></script>
@@ -1522,9 +1338,7 @@
 		<script type="text/javascript" src="js/drag-jquery.dad.min.js"></script>
 		<script type="text/javascript" src="js/jquery.cookie.js"></script>
 		<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=2.0&ak=yaDRGoon5YoRzAAwH781yUgn"></script>
-		
-		
-		
+
 	</body>
 
 </html>
