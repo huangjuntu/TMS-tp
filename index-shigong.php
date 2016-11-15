@@ -255,7 +255,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智能网关
+									劳务管理
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -265,7 +265,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="3" class="if3" id="IframeID3" src=""></iframe>
 							<div class="abs window_bottom">
-								智能网关
+								劳务管理
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
