@@ -92,12 +92,12 @@ select {
 
 .desktop-two-center-one .map-img {
 	background-image: url(../img/school-tms.gif);
-	background-size: cover;
+	background-size: 100% 115%;
 }
 
 .desktop-two-center-two .map-img {
-	background-image: url(../img/605.png);
-	background-size: cover;
+	background-image: url(../img/605-tms.gif);
+	background-size: 100% 115%;
 }
 
 .desktop-two-center-three .map-img {

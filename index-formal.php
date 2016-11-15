@@ -624,6 +624,27 @@
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
 					</div>
+					<!--右侧605地块地图重庆两江点击-->
+					<div id="window_605" class="abs window">
+						<div class="abs window_inner">
+							<div class="window_top">
+								<span class="float_left">
+									<img src="img/icons/icon_16_computer.png" />
+									605
+								</span>
+								<span class="float_right">
+									<a href="#" class="window_min"></a>
+									<a href="#" class="window_resize"></a>
+									<a href="#icon_dock_605" class="window_close" id="window_close"></a>
+								</span>
+							</div>
+							<iframe width="99.5%" height="94%" orderr="21" class="if21" id="IframeID21" src=""></iframe>
+							<div class="abs window_bottom">
+								605
+							</div>
+						</div>
+						<span class="abs ui-resizable-handle ui-resizable-se"></span>
+					</div>
 					<!--桃浦科技智慧城管理系统点击-->
 					<div id="window_tpkj" class="abs window">
 						<div class="abs window_inner">
@@ -756,6 +777,11 @@
 						<li id="icon_dock_cqlj">
 							<a href="#window_cqlj">
 								<img src="img/icons/icon_32_computer.png" /> 8-重庆两江
+							</a>
+						</li>
+						<li id="icon_dock_605">
+							<a href="#window_605">
+								<img src="img/icons/icon_32_computer.png" /> 605
 							</a>
 						</li>
 					</ul>
@@ -1240,7 +1266,7 @@
 				</div>
 				<!--select右侧点击222的区域-->
 				<div class="desktop-two-center desktop-two-center-two " style="display: none;">
-					<div class="map-img map2"></div>
+					<div class="map-img map2 605-map" href="#icon_dock_605" style="cursor: pointer;"></div>
 				</div>
 				<!--select右侧点击333的区域-->
 				<div class="desktop-two-center desktop-two-center-three" style="display: none;">

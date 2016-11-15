@@ -25,11 +25,12 @@ var comNamess = [
 	["http://10.200.43.37/test/1014/zhsw2_main.html"], //13	园区水质管理
 	["http://10.200.43.37/test/1014/zhsw_main.html"], //14	智慧供水
 	["http://10.200.43.37/test/1014/lxsh_main.html"], //15	乐行上海
-	["#"], //16  桃浦区域地图
+	["TMS-pic.html"], //16  托马斯学校地图
 	["http://jq22.com"], //17  九州云
 	["#"], //18  sxky
 	["http://10.200.43.37/six"], //19 桃浦科技智慧城管理系统点击
-	["http://www.baidu.com"] //20 重庆两江地图点击
+	["http://www.baidu.com"], //20 重庆两江地图点击
+	["605-pic.html"] //21 605地块地图点击
 
 
 ];
@@ -369,6 +370,34 @@ var JQD = (function($, window, undefined) {
 
 					var i = 20;
 					$(".if" + i).attr("src", comNamess[20]);
+					//document.getElementById("test_lep").innerHTML="此刻地址为："+comNamess[j];
+
+					// Show the taskbar button.
+					if($(x).is(':hidden')) {
+						$(x).remove().appendTo('#dock');
+						$(x).show('fast');
+					}
+
+					// Bring window to front.
+					JQD.util.window_flat();
+					$(y).addClass('window_stack').show();
+				}).live('mouseenter', function() {
+					$(this).die('mouseenter').draggable({
+						revert: true,
+						containment: 'parent'
+					});
+				});
+				
+				//开始  右侧图片-重庆两江1
+				$('.605-map').live('click', function() {
+					// Get the link's target.
+					var x = $(this).attr('href');
+
+					var y = $(x).find('a').attr('href');
+					console.log(y);
+
+					var i = 21;
+					$(".if" + i).attr("src", comNamess[21]);
 					//document.getElementById("test_lep").innerHTML="此刻地址为："+comNamess[j];
 
 					// Show the taskbar button.
