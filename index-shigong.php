@@ -145,7 +145,7 @@
 
 					<!--十个图标加入结束-->
 					<!--复制的图片-->
-					<div class="jq22">
+					<div class="jq22 jq23">
 						<div class="copy1 icon-copy">
 							<span><img src="img/new/img1.png"/></span>
 							<h3>施工管理</h3>
@@ -603,13 +603,13 @@
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
 					</div>
-					<!--右侧地图重庆两江点击-->
+					<!--右侧地图地下管廊点击-->
 					<div id="window_cqlj" class="abs window">
 						<div class="abs window_inner">
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									重庆两江
+									地下管廊
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -619,7 +619,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="20" class="if20" id="IframeID20" src=""></iframe>
 							<div class="abs window_bottom">
-								重庆两江
+								地下管廊
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -776,7 +776,7 @@
 						</li>
 						<li id="icon_dock_cqlj">
 							<a href="#window_cqlj">
-								<img src="img/icons/icon_32_computer.png" /> 8-重庆两江
+								<img src="img/icons/icon_32_computer.png" /> 8-地下管廊
 							</a>
 						</li>
 						<li id="icon_dock_605">
@@ -1266,7 +1266,9 @@
 				</div>
 				<!--select右侧点击222的区域-->
 				<div class="desktop-two-center desktop-two-center-two " style="display: none;">
-					<div class="map-img map2 605-map" href="#icon_dock_605" style="cursor: pointer;"></div>
+					<div class="map-img map2 605-map" href="#icon_dock_605" style="cursor: pointer;">
+						<div class="dropzone2"></div>
+					</div>
 				</div>
 				<!--select右侧点击333的区域-->
 				<div class="desktop-two-center desktop-two-center-three" style="display: none;">
@@ -1322,32 +1324,6 @@
 					</a>
 				</div>
 
-				<!--<div class="news" style="display: block;">
-						111111
-					</div>
-
-					<div class="shalou">
-						<img src="img/shalou.jpg" width="100%" height="100%" />
-						<span>数据整合中。。。</span>
-					</div>
-					<div class="show-pic">
-						<a class="abs icon ui-draggable ui-draggable-handle tpkj1" href="#icon_dock_tpkj" id="leap24">
-							<img src="img/logo-icon.jpg" style="width: 50%; cursor: pointer;">
-							<span style="display: block;">桃浦科技智慧城管理系统</span>
-						</a>
-					</div>-->
-				<!--<div class="news" style="display: block;">
-						222222
-					</div>
-					<div class="shalou">
-						<span>数据整合中。。。。</span>
-					</div>-->
-				<!--<div class="news" style="display: block;">
-						333333
-					</div>
-					<div class="shalou">
-						<span>数据整合中。。。。</span>
-					</div>-->
 
 			</div>
 			<!--右侧展示页面结束-->

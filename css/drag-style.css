@@ -37,3 +37,18 @@
     top: 38px;
     margin-right: 10px;
 }
+.dropzone2 {
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    cursor: pointer;
+}
+
+.dropzone2 span img {
+    display: inline-block;
+    margin: 10px 0 0 10px;
+    width: 30px;
+    height: 30px;
+    top: 38px;
+    margin-right: 10px;
+}

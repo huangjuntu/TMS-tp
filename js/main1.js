@@ -192,6 +192,16 @@ $(function() {
 	});
 });
 
+$(function() {
+	var d2 = $('.jq23').dad();
+	var target = $('.dropzone2');
+
+	d2.addDropzone(target, function(e) {
+		e.find('span').appendTo(target);
+		e.remove();
+	});
+});
+
 //      左侧js左侧菜单开始
 $(".show-hide1").hide();
 $(".mouseover-show1").mouseover(function() {
