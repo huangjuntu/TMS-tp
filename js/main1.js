@@ -2,30 +2,25 @@
 //var name1=new Array("Saab","Volvo","BMW");
 
 $('#mySelect').change(function() {
+
 	var select_value = $(this).children('option:selected').val()
 	if(select_value == 1) {
-		
+
 		$('.desktop-two-button').removeAttr("disabled");
 		$('.desktop-two-center-one').css("display", "block");
 		$('.desktop-two-center-two').css("display", "none");
 		$('.desktop-two-center-three').css("display", "none");
 		$(".desktop-two-button").removeClass("white_bd1");
-		$("#leap1,.copy1").children().next().html("智慧广播网");
-		$("#leap2,.copy2").children().next().html("名校慕课网");
-		$("#leap3,.copy3").children().next().html("智能路灯网");
-		$("#leap4,.copy4").children().next().html("食品溯源");
-		$("#leap5,.copy5").children().next().html("智能穿戴(GPS)");
-		$("#leap6,.copy6").children().next().html("教育商城");
-		$("#leap7,.copy7").children().next().html("云班教室");
-		$("#leap8,.copy8").children().next().html("校园安防系统");
-		$("#leap9,.copy9").children().next().html("信息化管理服务中心");
-		$("#leap10,.copy10").children().next().html("智慧图书馆");
-		$("#leap11,.copy11").children().next().html("智慧书包");
-		$("#leap12,.copy12").children().next().html("智慧一卡通");
-		$("#leap13,.copy13").children().next().html("园区水质管理");
-		$("#leap14,.copy14").children().next().html("VR体验");
-		$("#leap15,.copy15").children().next().html("校园电视台");
-		
+
+		var select1 = new Array(
+			"慕课平台<br/>(鑫森)", "校园公广系统<br/>(赛嘉)", "校园照明与安防<br/>(飞乐/云赛智联)", "安全教室<br/>(鑫森)", "校区一卡通<br/>(物联)",
+			"电子教室", "校区水质<br/>(科学仪器/云翰)", "能耗管理系统<br/>(物联)", "校区停车<br/>(云赛智联)", "云应用<br/>(南洋万邦)",
+			"智能穿戴", "信息化管理服务中心", "校园食安管理<br/>(溯源公司)", "智慧图书系统", "远程桌面<br/>(赛维)"
+		);
+		for(var x = 1; x <= 15; x++) {
+			$("#leap" + x).children().next().html(select1[x - 1]);
+		}
+
 	} else if(select_value == 2) {
 		$('.desktop-two-center-two').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
@@ -33,42 +28,28 @@ $('#mySelect').change(function() {
 		$(".desktop-two-center .news").css("display", "block");
 		$('.desktop-two-button').attr("disabled", "disabled");
 		$(".desktop-two-button").addClass("white_bd1");
-		$("#leap1,.copy1").children().next().html("智慧广播网2");
-		$("#leap2,.copy2").children().next().html("名校慕课网2");
-		$("#leap3,.copy3").children().next().html("智能路灯网2");
-		$("#leap4,.copy4").children().next().html("食品溯源2");
-		$("#leap5,.copy5").children().next().html("智能穿戴(GPS)2");
-		$("#leap6,.copy6").children().next().html("教育商城2");
-		$("#leap7,.copy7").children().next().html("云班教室2");
-		$("#leap8,.copy8").children().next().html("校园安防系统2");
-		$("#leap9,.copy9").children().next().html("信息化管理服务中心2");
-		$("#leap10,.copy10").children().next().html("智慧图书馆2");
-		$("#leap11,.copy11").children().next().html("智慧书包2");
-		$("#leap12,.copy12").children().next().html("智慧一卡通2");
-		$("#leap13,.copy13").children().next().html("园区水质管理2");
-		$("#leap14,.copy14").children().next().html("VR体验2");
-		$("#leap15,.copy15").children().next().html("校园电视台2");
-		
+		var select2 = new Array(
+			"慕课平台<br/>(鑫森)2", "校园公广系统<br/>(赛嘉)2", "校园照明与安防<br/>(飞乐/云赛智联)2", "安全教室<br/>(鑫森)2", "校区一卡通<br/>(物联)2",
+			"电子教室2", "校区水质<br/>(科学仪器/云翰)2", "能耗管理系统<br/>(物联)2", "校区停车<br/>(云赛智联)2", "云应用<br/>(南洋万邦)2",
+			"智能穿戴2", "信息化管理服务中心2", "校园食安管理<br/>(溯源公司)2", "智慧图书系统2", "远程桌面<br/>(赛维)2"
+		);
+		for(var x = 1; x <= 15; x++) {
+			$("#leap" + x).children().next().html(select2[x - 1]);
+		}
+
 	} else if(select_value == 3) {
 		$('.desktop-two-center-three').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
 		$('.desktop-two-center-two').css("display", "none");
 		$(".desktop-two-button").addClass("white_bd1");
-		$("#leap1,.copy1").children().next().html("智慧广播网3");
-		$("#leap2,.copy2").children().next().html("名校慕课网3");
-		$("#leap3,.copy3").children().next().html("智能路灯网3");
-		$("#leap4,.copy4").children().next().html("食品溯源3");
-		$("#leap5,.copy5").children().next().html("智能穿戴(GPS)3");
-		$("#leap6,.copy6").children().next().html("教育商城3");
-		$("#leap7,.copy7").children().next().html("云班教室3");
-		$("#leap8,.copy8").children().next().html("校园安防系统3");
-		$("#leap9,.copy9").children().next().html("信息化管理服务中心3");
-		$("#leap10,.copy10").children().next().html("智慧图书馆3");
-		$("#leap11,.copy11").children().next().html("智慧书包3");
-		$("#leap12,.copy12").children().next().html("智慧一卡通3");
-		$("#leap13,.copy13").children().next().html("园区水质管理3");
-		$("#leap14,.copy14").children().next().html("VR体验3");
-		$("#leap15,.copy15").children().next().html("校园电视台3");
+		var select2 = new Array(
+			"慕课平台<br/>(鑫森)3", "校园公广系统<br/>(赛嘉)3", "校园照明与安防<br/>(飞乐/云赛智联)3", "安全教室<br/>(鑫森)3", "校区一卡通<br/>(物联)3",
+			"电子教室3", "校区水质<br/>(科学仪器/云翰)3", "能耗管理系统<br/>(物联)3", "校区停车<br/>(云赛智联)3", "云应用<br/>(南洋万邦)3",
+			"智能穿戴3", "信息化管理服务中心3", "校园食安管理<br/>(溯源公司)3", "智慧图书系统3", "远程桌面<br/>(赛维)3"
+		);
+		for(var x = 1; x <= 15; x++) {
+			$("#leap" + x).children().next().html(select2[x - 1]);
+		}
 	} else {}
 })
 $('#mySelect2').change(function() {
@@ -89,7 +70,7 @@ $('#mySelect2').change(function() {
 		$('.news4').css("display", "none");
 		$('.news5').css("display", "none");
 		$('.news6').css("display", "none");
-	}else if(select_value2 == 22) {
+	} else if(select_value2 == 22) {
 		$('.news2').css("display", "block");
 		$('.news0').css("display", "none");
 		$('.news1').css("display", "none");
@@ -121,7 +102,7 @@ $('#mySelect2').change(function() {
 		$('.news3').css("display", "none");
 		$('.news4').css("display", "none");
 		$('.news6').css("display", "none");
-	}else if(select_value2 == 66) {
+	} else if(select_value2 == 66) {
 		$('.news6').css("display", "block");
 		$('.news0').css("display", "none");
 		$('.news1').css("display", "none");
@@ -147,30 +128,30 @@ $(".input1").focus(function() {
 
 //var show1 = 0;
 $(".desktop-two-button").click(function() {
-//	if(show1 == 0) {
-//		$(".desktop-two-button").html("返回");
-		$(".desktop-two-button").addClass("white_bd");
-		setTimeout(function() {
-			$(".desktop-two-button").removeClass("white_bd");
-		}, 100);
-		$(".desktop-two-buttom").css("display", "none");
-		$(".shalou").css("display", "block");
-		$(".show-pic").css("display", "none");
-		setTimeout(function() {
-			$(".shalou").css("display", "none");
+	//	if(show1 == 0) {
+	//		$(".desktop-two-button").html("返回");
+	$(".desktop-two-button").addClass("white_bd");
+	setTimeout(function() {
+		$(".desktop-two-button").removeClass("white_bd");
+	}, 100);
+	$(".desktop-two-buttom").css("display", "none");
+	$(".shalou").css("display", "block");
+	$(".show-pic").css("display", "none");
+	setTimeout(function() {
+		$(".shalou").css("display", "none");
 
-			$(".show-pic").fadeIn(3000);
+		$(".show-pic").fadeIn(3000);
 
-		}, 5000);
-		clearTimeout();
-//		show1 = 1;
-//	} else {
-//		$(".desktop-two-button").html("数据汇总");
-//		$(".desktop-two-buttom").css("display", "block");
-//		$(".shalou").css("display", "none");
-//		$(".show-pic").css("display", "none");
-//		show1 = 0;
-//	}
+	}, 5000);
+	clearTimeout();
+	//		show1 = 1;
+	//	} else {
+	//		$(".desktop-two-button").html("数据汇总");
+	//		$(".desktop-two-buttom").css("display", "block");
+	//		$(".shalou").css("display", "none");
+	//		$(".show-pic").css("display", "none");
+	//		show1 = 0;
+	//	}
 
 })
 
@@ -221,13 +202,12 @@ $(".button-icon").toggle(
 	}
 );
 
-$(".button-shigong").click(function(){
-	window.location.href="index-formal.php";
+$(".button-shigong").click(function() {
+	window.location.href = "index-formal.php";
 })
-$(".button-formal").click(function(){
-	window.location.href="index-shigong.php";
+$(".button-formal").click(function() {
+	window.location.href = "index-shigong.php";
 })
-
 
 // $(".copy1").draggable({
 //     helper: "clone",
