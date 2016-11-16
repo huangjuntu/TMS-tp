@@ -7,7 +7,7 @@ select {
 
 /*桌面图标的z-index*/
 
-#desktop .abs.icon {
+#desktop .abs .icon {
 	z-index: 4;
 }
 
