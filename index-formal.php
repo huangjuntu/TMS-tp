@@ -73,74 +73,74 @@
 					<!--桌面图标开始-->
 					<a class="abs icon" id="leap1" style="left:2%;top:1%;" href="#icon_dock_ydy">
 						<img class="img_icon" src="img/new/img1.png" src1="img/new/img1.png" src2="img/new/img1b.png" />
-						<h3>智慧广播网</h3>
+						<h3>慕课平台<br/>(鑫森)</h3>
 					</a>
 
 					<a class="abs icon" id="leap2" style="left:8%;top:1%;" href="#icon_dock_zzzz">
 						<img class="img_icon" src="img/new/img2.png" src1="img/new/img2.png" src2="img/new/img2b.png" />
-						<h3>名校慕课网</h3>
+						<h3>校园公广系统<br/>(赛嘉)</h3>
 					</a>
 
 					<a class="abs icon" id="leap3" style="left:2%;top:17%;" href="#icon_dock_znldw">
 						<img class="img_icon" src="img/new/img9-1.png" src1="img/new/img9-1.png" src2="img/new/img9-1b.png" />
-						<h3>智能路灯网</h3>
+						<h3>校园照明与安防<br/>(飞乐/云赛智联)</h3>
 					</a>
 
 					<a class="abs icon" id="leap4" style="left:8%;top:17%;" href="#icon_dock_zhsy">
 						<img class="img_icon" src="img/new/img10.png" src1="img/new/img10.png" src2="img/new/img10b.png" />
-						<h3>食品溯源</h3>
+						<h3>安全教室<br/>(鑫森)</h3>
 					</a>
 
 					<a class="abs icon" id="leap5" style="left:2%;top:33%;" href="#icon_dock_zhjt">
 						<img class="img_icon" src="img/new/img6.png" src1="img/new/img6.png" src2="img/new/img6b.png" />
-						<h3>智能穿戴(GPS)</h3>
+						<h3>电子教室</h3>
 					</a>
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
 						<img class="img_icon" src="img/new/img11.png" src1="img/new/img11.png" src2="img/new/img11b.png" />
-						<h3>教育商城</h3>
+						<h3>校区一卡通<br/>(物联)</h3>
 					</a>
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
 						<img class="img_icon" src="img/new/img12.png" src1="img/new/img12.png" src2="img/new/img12b.png" />
-						<h3>云班教室</h3>
+						<h3>校区停车<br/>(云赛智联)</h3>
 					</a>
 					<a class="abs icon" id="leap8" style="left:8%;top:49%;" href="#icon_dock_jianzhu">
 						<img class="img_icon" src="img/new/img5.png" src1="img/new/img5.png" src2="img/new/img5b.png" />
-						<h3>校园安防系统</h3>
+						<h3>能耗管理系统<br/>(物联)</h3>
 					</a>
 					<a class="abs icon" id="leap9" style="left:2%;top:65%;" href="#icon_dock_bdc">
 						<img class="img_icon" src="img/new/img3.png" src1="img/new/img3.png" src2="img/new/img3b.png" />
-						<h3>信息化管理服务中心</h3>
+						<h3>校区水质<br/>(科学仪器/云翰)</h3>
 					</a>
 					<a class="abs icon" id="leap10" style="left:8%;top:65%;" href="#icon_dock_bank">
 						<img class="img_icon" src="img/new/img4.png" src1="img/new/img4.png" src2="img/new/img4b.png" />
-						<h3>智慧图书馆</h3>
+						<h3>云应用<br/>(南洋万邦)</h3>
 					</a>
 					<!--十个图标加入-->
 					<a class="abs icon" id="leap11" style="left:2%;top:81%;" href="#icon_dock_11">
 						<img class="img_icon" src="img/new/img11-1.png" src1="img/new/img11-1.png" src2="img/new/img11-1b.png" />
-						<h3>智慧书包</h3>
+						<h3>智能穿戴</h3>
 					</a>
 
 					<a class="abs icon" id="leap12" style="left:8%;top:81%;" href="#icon_dock_12">
 						<img class="img_icon" src="img/new/img12-1.png" src1="img/new/img12-1.png" src2="img/new/img12-1b.png" />
-						<h3>智慧一卡通</h3>
+						<h3>信息化管理服务中心</h3>
 					</a>
 
 					<a class="abs icon" id="leap13" style="left:14%;top:1%;" href="#icon_dock_13">
 						<img class="img_icon" src="img/new/img13.png" src1="img/new/img13.png" src2="img/new/img13b.png" />
-						<h3>园区水质管理</h3>
+						<h3>校园食安管理<br/>(溯源公司)</h3>
 					</a>
 
 					<a class="abs icon" id="leap14" style="left:14%;top:17%;" href="#icon_dock_14">
 						<img class="img_icon" src="img/new/img14.png" src1="img/new/img14.png" src2="img/new/img14b.png" />
-						<h3>VR体验</h3>
+						<h3>智慧图书系统</h3>
 					</a>
 
 					<a class="abs icon" id="leap15" style="left:14%;top:33%;" href="#icon_dock_15">
 						<img class="img_icon" src="img/new/img15.png" src1="img/new/img15.png" src2="img/new/img15b.png" />
-						<h3>校园电视台</h3>
+						<h3>远程桌面<br/>(赛维)</h3>
 					</a>
 
 					<!--十个图标加入结束-->
@@ -148,63 +148,63 @@
 					<div class="jq22 jq23 jq24">
 						<div class="copy1 icon-copy">
 							<span><img src="img/new/img1.png"/></span>
-							<h3>智慧广播网</h3>
+							<h3>慕课平台<br/>(鑫森)</h3>
 						</div>
 						<div class="copy2 icon-copy">
 							<span><img src="img/new/img2.png"/></span>
-							<h3>名校慕课网</h3>
+							<h3>校园公广系统<br/>(赛嘉)</h3>
 						</div>
 						<div class="copy3 icon-copy">
 							<span><img src="img/new/img9-1.png"/></span>
-							<h3>智能路灯网</h3>
+							<h3>校园照明与安防<br/>(飞乐/云赛智联)</h3>
 						</div>
 						<div class="copy4 icon-copy">
 							<span><img src="img/new/img10.png"/></span>
-							<h3>食品溯源</h3>
+							<h3>安全教室<br/>(鑫森)</h3>
 						</div>
 						<div class="copy5 icon-copy">
 							<span><img src="img/new/img6.png"/></span>
-							<h3>智能穿戴(GPS)</h3>
+							<h3>电子教室</h3>
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
-							<h3>教育商城</h3>
+							<h3>校区一卡通<br/>(物联)</h3>
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
-							<h3>云班教室</h3>
+							<h3>校区停车<br/>(云赛智联)</h3>
 						</div>
 						<div class="copy8 icon-copy">
 							<span><img src="img/new/img5.png"/></span>
-							<h3>校园安防系统</h3>
+							<h3>能耗管理系统<br/>(物联)</h3>
 						</div>
 						<div class="copy9 icon-copy">
 							<span><img src="img/new/img3.png"/></span>
-							<h3>信息化管理服务中心</h3>
+							<h3>校区水质<br/>(科学仪器/云翰)</h3>
 						</div>
 						<div class="copy10 icon-copy">
 							<span><img src="img/new/img4.png"/></span>
-							<h3>智慧图书馆</h3>
+							<h3>云应用<br/>(南洋万邦)</h3>
 						</div>
 						<div class="copy11 icon-copy">
 							<span><img src="img/new/img11-1.png"/></span>
-							<h3>智慧书包</h3>
+							<h3>智能穿戴</h3>
 						</div>
 						<div class="copy12 icon-copy">
 							<span><img src="img/new/img12-1.png"/></span>
-							<h3>智慧一卡通</h3>
+							<h3>信息化管理服务中心</h3>
 						</div>
 						<div class="copy13 icon-copy">
 							<span><img src="img/new/img13.png"/></span>
-							<h3>园区水质管理</h3>
+							<h3>校园食安管理<br/>(溯源公司)</h3>
 						</div>
 						<div class="copy14 icon-copy">
 							<span><img src="img/new/img14.png"/></span>
-							<h3>VR体验</h3>
+							<h3>智慧图书系统</h3>
 						</div>
 						<div class="copy15 icon-copy">
 							<span><img src="img/new/img15.png"/></span>
-							<h3>校园电视台</h3>
+							<h3>远程桌面<br/>(赛维)</h3>
 						</div>
 
 										</div>
@@ -215,7 +215,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智慧广播网
+									慕课平台(鑫森)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -225,7 +225,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="1" class="if1" id="IframeID1" src=""></iframe>
 							<div class="abs window_bottom">
-								智慧广播网
+								慕课平台(鑫森)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -235,7 +235,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									名校慕课网
+									校园公广系统<br/>(赛嘉)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -245,7 +245,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="2" class="if2" id="IframeID2" src=""></iframe>
 							<div class="abs window_bottom">
-								名校慕课网
+								校园公广系统<br/>(赛嘉)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -275,7 +275,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									食品溯源
+									安全教室<br/>(鑫森)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -285,7 +285,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="4" class="if4" id="IframeID4" src=""></iframe>
 							<div class="abs window_bottom">
-								食品溯源
+								安全教室<br/>(鑫森)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -295,7 +295,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智能穿戴(GPS)
+									电子教室
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -305,7 +305,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="5" class="if5" id="IframeID5" src=""></iframe>
 							<div class="abs window_bottom">
-								智能穿戴(GPS)
+								电子教室
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -315,7 +315,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									教育商城
+									校区一卡通<br/>(物联)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -326,7 +326,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="6" class="if6" id="IframeID6" src=""></iframe>
 							<div class="abs window_bottom">
-								教育商城
+								校区一卡通<br/>(物联)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -336,7 +336,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									云班教室
+									校区停车<br/>(云赛智联)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -346,7 +346,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="7" class="if7" id="IframeID7" src=""></iframe>
 							<div class="abs window_bottom">
-								云班教室
+								校区停车<br/>(云赛智联)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -356,7 +356,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校园安防系统
+									能耗管理系统<br/>(物联)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -366,7 +366,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="8" class="if8" id="IframeID8" src=""></iframe>
 							<div class="abs window_bottom">
-								校园安防系统
+								能耗管理系统<br/>(物联)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -392,13 +392,13 @@
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
 					</div>
-					<!--第十个图标-智慧图书馆-->
+					<!--第十个图标-云应用<br/>(南洋万邦)-->
 					<div id="window_bank" class="abs window">
 						<div class="abs window_inner">
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智慧图书馆
+									云应用<br/>(南洋万邦)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -408,7 +408,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="10" class="if10" id="IframeID10" src=""></iframe>
 							<div class="abs window_bottom">
-								智慧图书馆
+								云应用<br/>(南洋万邦)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -1165,7 +1165,7 @@
 					<!--3-3-->
 					<div class="menucom" style="display:none">
 						<ul class="child">
-							<li class="detail" data-product='[["*智能视频分析系统","http://10.200.43.3：8080/yzXJ"],["智能隧道灯","http://10.200.43.37/company/yunzhichanpin/www.inesa-yun.com/index.php-m=Product&a=detail&id=2.htm"],["平安城市监控解决方案","http://10.200.43.37/company/yunzhichanpin/www.inesa-yun.com/index.php-m=Product&a=detail&id=3.htm"]]' data-info="立足视频智能分析核心环节，服务国家安全及平安城市稳固推进" data-url="http://10.200.43.37/company/yunzhichanpin/www.inesa-yun.com/index.htm">云智视像科技（上海）有限公司</li>
+							<li class="detail" data-product='[["*智能视频分析系统","http://10.200.43.3：8080/yzXJ"],["智能隧道灯","http://10.200.43.37/company/yunzhichanpin/www.inesa-yun.com/index.php-m=Product&a=detail&id=2.htm"],["平安城市监控解决方案","http://10.200.43.37/company/yunzhichanpin/www.inesa-yun.com/index.php-m=Product&a=detail&id=3.htm"]]' data-info="立足视频智能分析核心环节，服务国家安全及平安城市稳固推进" data-url="http://10.200.43.37/company/yunzhichanpin/www.inesa-yun.com/index.htm">云智视像科技(上海)有限公司</li>
 							<li class="detail" data-product='[["无人值守机房动力环境监测系统","http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/index.htm"],["ATM人脸智能分析器","http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/sell/index.php-itemid=237.htm"],["智能周界分析器","http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/sell/index.php-itemid=238.htm"]]' data-info="全参数，可视化，机房环境监测系统" data-url="http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/index.htm">杭州智诺英特科技有限公司</li>
 							<li class="detail" data-product='[["全方位安防与应急广播系统","http://10.200.43.37/company/saijia/shminxing036356.11467.com/index.htm"]]' data-info="公共场所安全预防监控和紧急疏散指导管理平台" data-url="http://10.200.43.37/company/saijia/shminxing036356.11467.com/index.htm">上海赛嘉电子科技有限公司</li>
 							<li class="detail" data-product='[["住宅小区安防系统","http://10.200.43.37/company/yiren/www.infinite.com.cn/product.asp-id=520&class1=571&class2=579.htm"],["办公楼宇安防系统","http://10.200.43.37/company/yiren/www.infinite.com.cn/product.asp-id=520&class1=571&class2=580.htm"],["TETRA数字集群","http://10.200.43.37/company/yiren/www.infinite.com.cn/product.asp-id=565&class1=568.htm"]]' data-url="http://10.200.43.37/company/yiren/www.infinite.com.cn/index.asp.htm">上海亿人通信终端有限公司</li>
@@ -1303,7 +1303,7 @@
 
 					</div>
 					<div class="news4 news" style="display: none;">
-						数据通过REST API标准接口存储到统一的数据湖（Data Lake）中 从Data Lake中取出数据做ETL转换到各种数据库 数据metadata定义的标准化(数据源，创建时间，压缩格式*，文件格式) 将应用数据尽可能多地暴露出来。
+						数据通过REST API标准接口存储到统一的数据湖(Data Lake)中 从Data Lake中取出数据做ETL转换到各种数据库 数据metadata定义的标准化(数据源，创建时间，压缩格式*，文件格式) 将应用数据尽可能多地暴露出来。
 
 					</div>
 					<div class="news5 news" style="display: none;">
