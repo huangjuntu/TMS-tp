@@ -56,60 +56,25 @@ $('#mySelect2').change(function() {
 	var select_value2 = $(this).children('option:selected').val()
 	if(select_value2 == 00) {
 		$('.news0').css("display", "block");
-		$('.news1').css("display", "none");
-		$('.news2').css("display", "none");
-		$('.news3').css("display", "none");
-		$('.news4').css("display", "none");
-		$('.news5').css("display", "none");
-		$('.news6').css("display", "none");
+		$('.news1,.news2,.news3,.news4,.news5,.news6').css("display", "none");
 	} else if(select_value2 == 11) {
 		$('.news1').css("display", "block");
-		$('.news0').css("display", "none");
-		$('.news2').css("display", "none");
-		$('.news3').css("display", "none");
-		$('.news4').css("display", "none");
-		$('.news5').css("display", "none");
-		$('.news6').css("display", "none");
+		$('.news0,.news2,.news3,.news4,.news5,.news6').css("display", "none");
 	} else if(select_value2 == 22) {
 		$('.news2').css("display", "block");
-		$('.news0').css("display", "none");
-		$('.news1').css("display", "none");
-		$('.news3').css("display", "none");
-		$('.news4').css("display", "none");
-		$('.news5').css("display", "none");
-		$('.news6').css("display", "none");
+		$('.news0,.news1,.news3,.news4,.news5,.news6').css("display", "none");
 	} else if(select_value2 == 33) {
 		$('.news3').css("display", "block");
-		$('.news0').css("display", "none");
-		$('.news1').css("display", "none");
-		$('.news2').css("display", "none");
-		$('.news4').css("display", "none");
-		$('.news5').css("display", "none");
-		$('.news6').css("display", "none");
+		$('.news0,.news1,.news2,.news4,.news5,.news6').css("display", "none");
 	} else if(select_value2 == 44) {
 		$('.news4').css("display", "block");
-		$('.news0').css("display", "none");
-		$('.news1').css("display", "none");
-		$('.news2').css("display", "none");
-		$('.news3').css("display", "none");
-		$('.news5').css("display", "none");
-		$('.news6').css("display", "none");
+		$('.news0,.news1,.news2,.news3,.news5,.news6').css("display", "none");
 	} else if(select_value2 == 55) {
 		$('.news5').css("display", "block");
-		$('.news0').css("display", "none");
-		$('.news1').css("display", "none");
-		$('.news2').css("display", "none");
-		$('.news3').css("display", "none");
-		$('.news4').css("display", "none");
-		$('.news6').css("display", "none");
+		$('.news0,.news1,.news2,.news3,.news4,.news6').css("display", "none");
 	} else if(select_value2 == 66) {
 		$('.news6').css("display", "block");
-		$('.news0').css("display", "none");
-		$('.news1').css("display", "none");
-		$('.news2').css("display", "none");
-		$('.news3').css("display", "none");
-		$('.news4').css("display", "none");
-		$('.news5').css("display", "none");
+		$('.news0,.news1,.news2,.news3,.news4,.news5').css("display", "none");
 	} else {}
 })
 
@@ -144,14 +109,6 @@ $(".desktop-two-button").click(function() {
 
 	}, 5000);
 	clearTimeout();
-	//		show1 = 1;
-	//	} else {
-	//		$(".desktop-two-button").html("数据汇总");
-	//		$(".desktop-two-buttom").css("display", "block");
-	//		$(".shalou").css("display", "none");
-	//		$(".show-pic").css("display", "none");
-	//		show1 = 0;
-	//	}
 
 })
 
