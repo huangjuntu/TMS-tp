@@ -73,12 +73,12 @@
 					<!--桌面图标开始-->
 					<a class="abs icon" id="leap1" style="left:2%;top:1%;" href="#icon_dock_ydy">
 						<img class="img_icon" src="img/new/img1.png" src1="img/new/img1.png" src2="img/new/img1b.png" />
-						<h3>智慧广播网</h3>
+						<h3>仪电云</h3>
 					</a>
 
 					<a class="abs icon" id="leap2" style="left:8%;top:1%;" href="#icon_dock_zzzz">
 						<img class="img_icon" src="img/new/img2.png" src1="img/new/img2.png" src2="img/new/img2b.png" />
-						<h3>名校慕课网</h3>
+						<h3>智能制造</h3>
 					</a>
 
 					<a class="abs icon" id="leap3" style="left:2%;top:17%;" href="#icon_dock_znldw">
@@ -88,44 +88,44 @@
 
 					<a class="abs icon" id="leap4" style="left:8%;top:17%;" href="#icon_dock_zhsy">
 						<img class="img_icon" src="img/new/img10.png" src1="img/new/img10.png" src2="img/new/img10b.png" />
-						<h3>食品溯源</h3>
+						<h3>智慧溯源</h3>
 					</a>
 
 					<a class="abs icon" id="leap5" style="left:2%;top:33%;" href="#icon_dock_zhjt">
 						<img class="img_icon" src="img/new/img6.png" src1="img/new/img6.png" src2="img/new/img6b.png" />
-						<h3>智能穿戴(GPS)</h3>
+						<h3>智慧交通</h3>
 					</a>
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
 						<img class="img_icon" src="img/new/img11.png" src1="img/new/img11.png" src2="img/new/img11b.png" />
-						<h3>教育商城</h3>
+						<h3>智慧教育</h3>
 					</a>
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
 						<img class="img_icon" src="img/new/img12.png" src1="img/new/img12.png" src2="img/new/img12b.png" />
-						<h3>云班教室</h3>
+						<h3>智慧水务</h3>
 					</a>
 					<a class="abs icon" id="leap8" style="left:8%;top:49%;" href="#icon_dock_jianzhu">
 						<img class="img_icon" src="img/new/img5.png" src1="img/new/img5.png" src2="img/new/img5b.png" />
-						<h3>校园安防系统</h3>
+						<h3>智能建筑</h3>
 					</a>
 					<a class="abs icon" id="leap9" style="left:2%;top:65%;" href="#icon_dock_bdc">
 						<img class="img_icon" src="img/new/img3.png" src1="img/new/img3.png" src2="img/new/img3b.png" />
-						<h3>信息化管理服务中心</h3>
+						<h3>商务不动产</h3>
 					</a>
 					<a class="abs icon" id="leap10" style="left:8%;top:65%;" href="#icon_dock_bank">
 						<img class="img_icon" src="img/new/img4.png" src1="img/new/img4.png" src2="img/new/img4b.png" />
-						<h3>智慧图书馆</h3>
+						<h3>非银行金融</h3>
 					</a>
 					<!--十个图标加入-->
 					<a class="abs icon" id="leap11" style="left:2%;top:81%;" href="#icon_dock_11">
 						<img class="img_icon" src="img/new/img11-1.png" src1="img/new/img11-1.png" src2="img/new/img11-1b.png" />
-						<h3>智慧书包</h3>
+						<h3>数据中心</h3>
 					</a>
 
 					<a class="abs icon" id="leap12" style="left:8%;top:81%;" href="#icon_dock_12">
 						<img class="img_icon" src="img/new/img12-1.png" src1="img/new/img12-1.png" src2="img/new/img12-1b.png" />
-						<h3>智慧一卡通</h3>
+						<h3>双创空间</h3>
 					</a>
 
 					<a class="abs icon" id="leap13" style="left:14%;top:1%;" href="#icon_dock_13">
@@ -135,12 +135,12 @@
 
 					<a class="abs icon" id="leap14" style="left:14%;top:17%;" href="#icon_dock_14">
 						<img class="img_icon" src="img/new/img14.png" src1="img/new/img14.png" src2="img/new/img14b.png" />
-						<h3>VR体验</h3>
+						<h3>智慧供水</h3>
 					</a>
 
 					<a class="abs icon" id="leap15" style="left:14%;top:33%;" href="#icon_dock_15">
 						<img class="img_icon" src="img/new/img15.png" src1="img/new/img15.png" src2="img/new/img15b.png" />
-						<h3>校园电视台</h3>
+						<h3>乐行上海</h3>
 					</a>
 
 					<!--十个图标加入结束-->
@@ -148,11 +148,11 @@
 					<div class="jq22 jq23 jq24">
 						<div class="copy1 icon-copy">
 							<span><img src="img/new/img1.png"/></span>
-							<h3>智慧广播网</h3>
+							<h3>仪电云</h3>
 						</div>
 						<div class="copy2 icon-copy">
 							<span><img src="img/new/img2.png"/></span>
-							<h3>名校慕课网</h3>
+							<h3>智能制造</h3>
 						</div>
 						<div class="copy3 icon-copy">
 							<span><img src="img/new/img9-1.png"/></span>
@@ -160,39 +160,39 @@
 						</div>
 						<div class="copy4 icon-copy">
 							<span><img src="img/new/img10.png"/></span>
-							<h3>食品溯源</h3>
+							<h3>智慧溯源</h3>
 						</div>
 						<div class="copy5 icon-copy">
 							<span><img src="img/new/img6.png"/></span>
-							<h3>智能穿戴(GPS)</h3>
+							<h3>智慧交通</h3>
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
-							<h3>教育商城</h3>
+							<h3>智慧教育</h3>
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
-							<h3>云班教室</h3>
+							<h3>智慧水务</h3>
 						</div>
 						<div class="copy8 icon-copy">
 							<span><img src="img/new/img5.png"/></span>
-							<h3>校园安防系统</h3>
+							<h3>智能建筑</h3>
 						</div>
 						<div class="copy9 icon-copy">
 							<span><img src="img/new/img3.png"/></span>
-							<h3>信息化管理服务中心</h3>
+							<h3>商务不动产</h3>
 						</div>
 						<div class="copy10 icon-copy">
 							<span><img src="img/new/img4.png"/></span>
-							<h3>智慧图书馆</h3>
+							<h3>非银行金融</h3>
 						</div>
 						<div class="copy11 icon-copy">
 							<span><img src="img/new/img11-1.png"/></span>
-							<h3>智慧书包</h3>
+							<h3>数据中心</h3>
 						</div>
 						<div class="copy12 icon-copy">
 							<span><img src="img/new/img12-1.png"/></span>
-							<h3>智慧一卡通</h3>
+							<h3>双创空间</h3>
 						</div>
 						<div class="copy13 icon-copy">
 							<span><img src="img/new/img13.png"/></span>
@@ -200,11 +200,11 @@
 						</div>
 						<div class="copy14 icon-copy">
 							<span><img src="img/new/img14.png"/></span>
-							<h3>VR体验</h3>
+							<h3>智慧供水</h3>
 						</div>
 						<div class="copy15 icon-copy">
 							<span><img src="img/new/img15.png"/></span>
-							<h3>校园电视台</h3>
+							<h3>乐行上海</h3>
 						</div>
 
 										</div>
@@ -215,7 +215,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智慧广播网
+									仪电云
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -225,7 +225,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="1" class="if1" id="IframeID1" src=""></iframe>
 							<div class="abs window_bottom">
-								智慧广播网
+								仪电云
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -235,7 +235,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									名校慕课网
+									智能制造
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -245,7 +245,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="2" class="if2" id="IframeID2" src=""></iframe>
 							<div class="abs window_bottom">
-								名校慕课网
+								智能制造
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -275,7 +275,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									食品溯源
+									智慧溯源
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -285,7 +285,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="4" class="if4" id="IframeID4" src=""></iframe>
 							<div class="abs window_bottom">
-								食品溯源
+								智慧溯源
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -295,7 +295,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智能穿戴(GPS)
+									智慧交通
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -305,7 +305,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="5" class="if5" id="IframeID5" src=""></iframe>
 							<div class="abs window_bottom">
-								智能穿戴(GPS)
+								智慧交通
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -315,7 +315,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									教育商城
+									智慧教育
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -326,7 +326,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="6" class="if6" id="IframeID6" src=""></iframe>
 							<div class="abs window_bottom">
-								教育商城
+								智慧教育
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -336,7 +336,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									云班教室
+									智慧水务
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -346,7 +346,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="7" class="if7" id="IframeID7" src=""></iframe>
 							<div class="abs window_bottom">
-								云班教室
+								智慧水务
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -356,7 +356,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校园安防系统
+									智能建筑
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -366,7 +366,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="8" class="if8" id="IframeID8" src=""></iframe>
 							<div class="abs window_bottom">
-								校园安防系统
+								智能建筑
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -392,13 +392,13 @@
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
 					</div>
-					<!--第十个图标-智慧图书馆-->
+					<!--第十个图标-非银行金融-->
 					<div id="window_bank" class="abs window">
 						<div class="abs window_inner">
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									智慧图书馆
+									非银行金融
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -408,7 +408,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="10" class="if10" id="IframeID10" src=""></iframe>
 							<div class="abs window_bottom">
-								智慧图书馆
+								非银行金融
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>

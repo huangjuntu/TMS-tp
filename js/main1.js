@@ -1,13 +1,31 @@
 //右侧下拉框事件
+//var name1=new Array("Saab","Volvo","BMW");
+
 $('#mySelect').change(function() {
 	var select_value = $(this).children('option:selected').val()
 	if(select_value == 1) {
+		
 		$('.desktop-two-button').removeAttr("disabled");
 		$('.desktop-two-center-one').css("display", "block");
 		$('.desktop-two-center-two').css("display", "none");
 		$('.desktop-two-center-three').css("display", "none");
-
 		$(".desktop-two-button").removeClass("white_bd1");
+		$("#leap1,.copy1").children().next().html("智慧广播网");
+		$("#leap2,.copy2").children().next().html("名校慕课网");
+		$("#leap3,.copy3").children().next().html("智能路灯网");
+		$("#leap4,.copy4").children().next().html("食品溯源");
+		$("#leap5,.copy5").children().next().html("智能穿戴(GPS)");
+		$("#leap6,.copy6").children().next().html("教育商城");
+		$("#leap7,.copy7").children().next().html("云班教室");
+		$("#leap8,.copy8").children().next().html("校园安防系统");
+		$("#leap9,.copy9").children().next().html("信息化管理服务中心");
+		$("#leap10,.copy10").children().next().html("智慧图书馆");
+		$("#leap11,.copy11").children().next().html("智慧书包");
+		$("#leap12,.copy12").children().next().html("智慧一卡通");
+		$("#leap13,.copy13").children().next().html("园区水质管理");
+		$("#leap14,.copy14").children().next().html("VR体验");
+		$("#leap15,.copy15").children().next().html("校园电视台");
+		
 	} else if(select_value == 2) {
 		$('.desktop-two-center-two').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
@@ -15,11 +33,42 @@ $('#mySelect').change(function() {
 		$(".desktop-two-center .news").css("display", "block");
 		$('.desktop-two-button').attr("disabled", "disabled");
 		$(".desktop-two-button").addClass("white_bd1");
+		$("#leap1,.copy1").children().next().html("智慧广播网2");
+		$("#leap2,.copy2").children().next().html("名校慕课网2");
+		$("#leap3,.copy3").children().next().html("智能路灯网2");
+		$("#leap4,.copy4").children().next().html("食品溯源2");
+		$("#leap5,.copy5").children().next().html("智能穿戴(GPS)2");
+		$("#leap6,.copy6").children().next().html("教育商城2");
+		$("#leap7,.copy7").children().next().html("云班教室2");
+		$("#leap8,.copy8").children().next().html("校园安防系统2");
+		$("#leap9,.copy9").children().next().html("信息化管理服务中心2");
+		$("#leap10,.copy10").children().next().html("智慧图书馆2");
+		$("#leap11,.copy11").children().next().html("智慧书包2");
+		$("#leap12,.copy12").children().next().html("智慧一卡通2");
+		$("#leap13,.copy13").children().next().html("园区水质管理2");
+		$("#leap14,.copy14").children().next().html("VR体验2");
+		$("#leap15,.copy15").children().next().html("校园电视台2");
+		
 	} else if(select_value == 3) {
 		$('.desktop-two-center-three').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
 		$('.desktop-two-center-two').css("display", "none");
 		$(".desktop-two-button").addClass("white_bd1");
+		$("#leap1,.copy1").children().next().html("智慧广播网3");
+		$("#leap2,.copy2").children().next().html("名校慕课网3");
+		$("#leap3,.copy3").children().next().html("智能路灯网3");
+		$("#leap4,.copy4").children().next().html("食品溯源3");
+		$("#leap5,.copy5").children().next().html("智能穿戴(GPS)3");
+		$("#leap6,.copy6").children().next().html("教育商城3");
+		$("#leap7,.copy7").children().next().html("云班教室3");
+		$("#leap8,.copy8").children().next().html("校园安防系统3");
+		$("#leap9,.copy9").children().next().html("信息化管理服务中心3");
+		$("#leap10,.copy10").children().next().html("智慧图书馆3");
+		$("#leap11,.copy11").children().next().html("智慧书包3");
+		$("#leap12,.copy12").children().next().html("智慧一卡通3");
+		$("#leap13,.copy13").children().next().html("园区水质管理3");
+		$("#leap14,.copy14").children().next().html("VR体验3");
+		$("#leap15,.copy15").children().next().html("校园电视台3");
 	} else {}
 })
 $('#mySelect2').change(function() {
