@@ -103,7 +103,7 @@
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
 						<img class="img_icon" src="img/new/img12.png" src1="img/new/img12.png" src2="img/new/img12b.png" />
-						<h3>校区水质<br/>(科学仪器/云翰)</h3>
+						<h3>校区水质<br/>(科学仪器/云瀚)</h3>
 					</a>
 					<a class="abs icon" id="leap8" style="left:8%;top:49%;" href="#icon_dock_jianzhu">
 						<img class="img_icon" src="img/new/img5.png" src1="img/new/img5.png" src2="img/new/img5b.png" />
@@ -172,7 +172,7 @@
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
-							<h3>校区水质<br/>(科学仪器/云翰)</h3>
+							<h3>校区水质<br/>(科学仪器/云瀚)</h3>
 						</div>
 						<div class="copy8 icon-copy">
 							<span><img src="img/new/img5.png"/></span>
@@ -336,7 +336,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校区水质<br/>(科学仪器/云翰)
+									校区水质<br/>(科学仪器/云瀚)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -346,7 +346,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="7" class="if7" id="IframeID7" src=""></iframe>
 							<div class="abs window_bottom">
-								校区水质<br/>(科学仪器/云翰)
+								校区水质<br/>(科学仪器/云瀚)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
