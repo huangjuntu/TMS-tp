@@ -73,12 +73,12 @@
 					<!--桌面图标开始-->
 					<a class="abs icon" id="leap1" style="left:2%;top:1%;" href="#icon_dock_ydy">
 						<img class="img_icon" src="img/new/img1.png" src1="img/new/img1.png" src2="img/new/img1b.png" />
-						<h3>慕课平台<br/>(鑫森)</h3>
+						<h3>校区云平台<br/>(科技网/研究院)</h3>
 					</a>
 
 					<a class="abs icon" id="leap2" style="left:8%;top:1%;" href="#icon_dock_zzzz">
 						<img class="img_icon" src="img/new/img2.png" src1="img/new/img2.png" src2="img/new/img2b.png" />
-						<h3>校园公广系统<br/>(赛嘉)</h3>
+						<h3>容灾备份<br/>(科技网/研究院)</h3>
 					</a>
 
 					<a class="abs icon" id="leap3" style="left:2%;top:17%;" href="#icon_dock_znldw">
@@ -98,7 +98,7 @@
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
 						<img class="img_icon" src="img/new/img11.png" src1="img/new/img11.png" src2="img/new/img11b.png" />
-						<h3>电子教室</h3>
+						<h3>校园公广系统<br/>(赛嘉)</h3>
 					</a>
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
@@ -120,12 +120,12 @@
 					<!--十个图标加入-->
 					<a class="abs icon" id="leap11" style="left:2%;top:81%;" href="#icon_dock_11">
 						<img class="img_icon" src="img/new/img11-1.png" src1="img/new/img11-1.png" src2="img/new/img11-1b.png" />
-						<h3>智能穿戴</h3>
+						<h3>电子教室</h3>
 					</a>
 
 					<a class="abs icon" id="leap12" style="left:8%;top:81%;" href="#icon_dock_12">
 						<img class="img_icon" src="img/new/img12-1.png" src1="img/new/img12-1.png" src2="img/new/img12-1b.png" />
-						<h3>信息化管理服务中心</h3>
+						<h3>智慧图书系统</h3>
 					</a>
 
 					<a class="abs icon" id="leap13" style="left:14%;top:1%;" href="#icon_dock_13">
@@ -135,7 +135,7 @@
 
 					<a class="abs icon" id="leap14" style="left:14%;top:17%;" href="#icon_dock_14">
 						<img class="img_icon" src="img/new/img14.png" src1="img/new/img14.png" src2="img/new/img14b.png" />
-						<h3>智慧图书系统</h3>
+						<h3>慕课平台<br/>(鑫森)</h3>
 					</a>
 
 					<a class="abs icon" id="leap15" style="left:14%;top:33%;" href="#icon_dock_15">
@@ -148,11 +148,11 @@
 					<div class="jq22 jq23 jq24">
 						<div class="copy1 icon-copy">
 							<span><img src="img/new/img1.png"/></span>
-							<h3>慕课平台<br/>(鑫森)</h3>
+							<h3>校区云平台<br/>(科技网/研究院)</h3>
 						</div>
 						<div class="copy2 icon-copy">
 							<span><img src="img/new/img2.png"/></span>
-							<h3>校园公广系统<br/>(赛嘉)</h3>
+							<h3>容灾备份<br/>(科技网/研究院)</h3>
 						</div>
 						<div class="copy3 icon-copy">
 							<span><img src="img/new/img9-1.png"/></span>
@@ -168,7 +168,7 @@
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
-							<h3>电子教室</h3>
+							<h3>校园公广系统<br/>(赛嘉)</h3>
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
@@ -188,11 +188,11 @@
 						</div>
 						<div class="copy11 icon-copy">
 							<span><img src="img/new/img11-1.png"/></span>
-							<h3>智能穿戴</h3>
+							<h3>电子教室</h3>
 						</div>
 						<div class="copy12 icon-copy">
 							<span><img src="img/new/img12-1.png"/></span>
-							<h3>信息化管理服务中心</h3>
+							<h3>智慧图书系统</h3>
 						</div>
 						<div class="copy13 icon-copy">
 							<span><img src="img/new/img13.png"/></span>
@@ -200,7 +200,7 @@
 						</div>
 						<div class="copy14 icon-copy">
 							<span><img src="img/new/img14.png"/></span>
-							<h3>智慧图书系统</h3>
+							<h3>慕课平台<br/>(鑫森)</h3>
 						</div>
 						<div class="copy15 icon-copy">
 							<span><img src="img/new/img15.png"/></span>
@@ -235,7 +235,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校园公广系统<br/>(赛嘉)
+									容灾备份<br/>(科技网/研究院)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -245,7 +245,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="2" class="if2" id="IframeID2" src=""></iframe>
 							<div class="abs window_bottom">
-								校园公广系统<br/>(赛嘉)
+								容灾备份<br/>(科技网/研究院)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -315,7 +315,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									电子教室
+									校园公广系统<br/>(赛嘉)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -326,7 +326,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="6" class="if6" id="IframeID6" src=""></iframe>
 							<div class="abs window_bottom">
-								电子教室
+								校园公广系统<br/>(赛嘉)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
