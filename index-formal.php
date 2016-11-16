@@ -78,7 +78,7 @@
 
 					<a class="abs icon" id="leap2" style="left:8%;top:1%;" href="#icon_dock_zzzz">
 						<img class="img_icon" src="img/new/img2.png" src1="img/new/img2.png" src2="img/new/img2b.png" />
-						<h3>容灾备份<br/>(科技网/研究院)</h3>
+						<h3>慕课平台<br/>(仪电鑫森)</h3>
 					</a>
 
 					<a class="abs icon" id="leap3" style="left:2%;top:17%;" href="#icon_dock_znldw">
@@ -88,12 +88,12 @@
 
 					<a class="abs icon" id="leap4" style="left:8%;top:17%;" href="#icon_dock_zhsy">
 						<img class="img_icon" src="img/new/img10.png" src1="img/new/img10.png" src2="img/new/img10b.png" />
-						<h3>安全教室<br/>(鑫森)</h3>
+						<h3>安全教室<br/>(仪电鑫森)</h3>
 					</a>
 
 					<a class="abs icon" id="leap5" style="left:2%;top:33%;" href="#icon_dock_zhjt">
 						<img class="img_icon" src="img/new/img6.png" src1="img/new/img6.png" src2="img/new/img6b.png" />
-						<h3>校区一卡通<br/>(物联)</h3>
+						<h3>校区一卡通<br/>(仪电物联)</h3>
 					</a>
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
@@ -107,7 +107,7 @@
 					</a>
 					<a class="abs icon" id="leap8" style="left:8%;top:49%;" href="#icon_dock_jianzhu">
 						<img class="img_icon" src="img/new/img5.png" src1="img/new/img5.png" src2="img/new/img5b.png" />
-						<h3>能耗管理系统<br/>(物联)</h3>
+						<h3>能耗管理系统<br/>(仪电物联)</h3>
 					</a>
 					<a class="abs icon" id="leap9" style="left:2%;top:65%;" href="#icon_dock_bdc">
 						<img class="img_icon" src="img/new/img3.png" src1="img/new/img3.png" src2="img/new/img3b.png" />
@@ -120,22 +120,22 @@
 					<!--十个图标加入-->
 					<a class="abs icon" id="leap11" style="left:2%;top:81%;" href="#icon_dock_11">
 						<img class="img_icon" src="img/new/img11-1.png" src1="img/new/img11-1.png" src2="img/new/img11-1b.png" />
-						<h3>电子教室</h3>
+						<h3>容灾备份<br/>(科技网/研究院)</h3>
 					</a>
 
 					<a class="abs icon" id="leap12" style="left:8%;top:81%;" href="#icon_dock_12">
 						<img class="img_icon" src="img/new/img12-1.png" src1="img/new/img12-1.png" src2="img/new/img12-1b.png" />
-						<h3>智慧图书系统</h3>
+						<h3>电子教室</h3>
 					</a>
 
 					<a class="abs icon" id="leap13" style="left:14%;top:1%;" href="#icon_dock_13">
 						<img class="img_icon" src="img/new/img13.png" src1="img/new/img13.png" src2="img/new/img13b.png" />
-						<h3>校园食安管理<br/>(溯源公司)</h3>
+						<h3>校园食安管理<br/>(溯源科技)</h3>
 					</a>
 
 					<a class="abs icon" id="leap14" style="left:14%;top:17%;" href="#icon_dock_14">
 						<img class="img_icon" src="img/new/img14.png" src1="img/new/img14.png" src2="img/new/img14b.png" />
-						<h3>慕课平台<br/>(鑫森)</h3>
+						<h3>智慧图书系统</h3>
 					</a>
 
 					<a class="abs icon" id="leap15" style="left:14%;top:33%;" href="#icon_dock_15">
@@ -152,7 +152,7 @@
 						</div>
 						<div class="copy2 icon-copy">
 							<span><img src="img/new/img2.png"/></span>
-							<h3>容灾备份<br/>(科技网/研究院)</h3>
+							<h3>慕课平台<br/>(仪电鑫森)</h3>
 						</div>
 						<div class="copy3 icon-copy">
 							<span><img src="img/new/img9-1.png"/></span>
@@ -160,11 +160,11 @@
 						</div>
 						<div class="copy4 icon-copy">
 							<span><img src="img/new/img10.png"/></span>
-							<h3>安全教室<br/>(鑫森)</h3>
+							<h3>安全教室<br/>(仪电鑫森)</h3>
 						</div>
 						<div class="copy5 icon-copy">
 							<span><img src="img/new/img6.png"/></span>
-							<h3>校区一卡通<br/>(物联)</h3>
+							<h3>校区一卡通<br/>(仪电物联)</h3>
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
@@ -176,7 +176,7 @@
 						</div>
 						<div class="copy8 icon-copy">
 							<span><img src="img/new/img5.png"/></span>
-							<h3>能耗管理系统<br/>(物联)</h3>
+							<h3>能耗管理系统<br/>(仪电物联)</h3>
 						</div>
 						<div class="copy9 icon-copy">
 							<span><img src="img/new/img3.png"/></span>
@@ -188,19 +188,19 @@
 						</div>
 						<div class="copy11 icon-copy">
 							<span><img src="img/new/img11-1.png"/></span>
-							<h3>电子教室</h3>
+							<h3>容灾备份<br/>(科技网/研究院)</h3>
 						</div>
 						<div class="copy12 icon-copy">
 							<span><img src="img/new/img12-1.png"/></span>
-							<h3>智慧图书系统</h3>
+							<h3>电子教室</h3>
 						</div>
 						<div class="copy13 icon-copy">
 							<span><img src="img/new/img13.png"/></span>
-							<h3>校园食安管理<br/>(溯源公司)</h3>
+							<h3>校园食安管理<br/>(溯源科技)</h3>
 						</div>
 						<div class="copy14 icon-copy">
 							<span><img src="img/new/img14.png"/></span>
-							<h3>慕课平台<br/>(鑫森)</h3>
+							<h3>智慧图书系统</h3>
 						</div>
 						<div class="copy15 icon-copy">
 							<span><img src="img/new/img15.png"/></span>
@@ -215,7 +215,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									慕课平台(鑫森)
+									慕课平台(仪电鑫森)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -225,7 +225,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="1" class="if1" id="IframeID1" src=""></iframe>
 							<div class="abs window_bottom">
-								慕课平台(鑫森)
+								慕课平台(仪电鑫森)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -235,7 +235,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									容灾备份<br/>(科技网/研究院)
+									慕课平台<br/>(仪电鑫森)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -245,7 +245,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="2" class="if2" id="IframeID2" src=""></iframe>
 							<div class="abs window_bottom">
-								容灾备份<br/>(科技网/研究院)
+								慕课平台<br/>(仪电鑫森)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -275,7 +275,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									安全教室<br/>(鑫森)
+									安全教室<br/>(仪电鑫森)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -285,7 +285,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="4" class="if4" id="IframeID4" src=""></iframe>
 							<div class="abs window_bottom">
-								安全教室<br/>(鑫森)
+								安全教室<br/>(仪电鑫森)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -295,7 +295,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校区一卡通<br/>(物联)
+									校区一卡通<br/>(仪电物联)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -305,7 +305,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="5" class="if5" id="IframeID5" src=""></iframe>
 							<div class="abs window_bottom">
-								校区一卡通<br/>(物联)
+								校区一卡通<br/>(仪电物联)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -356,7 +356,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									能耗管理系统<br/>(物联)
+									能耗管理系统<br/>(仪电物联)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -366,7 +366,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="8" class="if8" id="IframeID8" src=""></iframe>
 							<div class="abs window_bottom">
-								能耗管理系统<br/>(物联)
+								能耗管理系统<br/>(仪电物联)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -1066,7 +1066,7 @@
 									<h5>认证和授权</h5>
 								</li>
 								<li>
-									<h5>物联网应用可编程协作</h5>
+									<h5>仪电物联网应用可编程协作</h5>
 								</li>
 								<li class="bigdatasave">
 									<h5>大数据统一存储</h5>
@@ -1133,7 +1133,7 @@
 						<ul class="inesainside-2">
 							<li>可切换云计算内核</li>
 							<li>可切换云存储内核</li>
-							<li>物联网内核</li>
+							<li>仪电物联网内核</li>
 							<li>大数据内核</li>
 							<li>城市监管内核</li>
 						</ul>
@@ -1147,7 +1147,7 @@
 					<div class="menucom" style="display:none">
 						<ul class="child">
 							<li class="detail" data-product='[["基于BIM的智能安防综合运维平台","http://10.200.43.37/company/baotongfanqiu/shxuhui03233.11467.com/index.htm"],["?智能停车场管理系统平台实物场景","http://10.200.43.37/company/baotongfanqiu/shxuhui03233.11467.com/index.htm"],["?华鑫中心实景漫游","http://10.200.43.37/company/baotongfanqiu/shxuhui03233.11467.com/index.htm"]]' data-info="采用BIM建模，大数据分析，三维可视综合运维管理平台//“互联网+”的智能停车场管理系统//采用BIM建模，大数据分析，三维可视综合运维管理平台" data-url="http://10.200.43.37/company/baotongfanqiu/shxuhui03233.11467.com/index.htm">上海宝通汎球电子有限公司</li>
-							<li class="detail" data-product='[["*能效管理平台","http://10.200.43.46"]]' data-info="合理规划用能、有效配置资源，创新服务模式促进全市园区智慧化建设" data-url="http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/index.htm">上海仪电物联技术股份有限公司</li>
+							<li class="detail" data-product='[["*能效管理平台","http://10.200.43.46"]]' data-info="合理规划用能、有效配置资源，创新服务模式促进全市园区智慧化建设" data-url="http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/index.htm">上海仪电仪电物联技术股份有限公司</li>
 							<li class="detail" data-product='[["景观亮美系列","http://10.200.43.37/company/feileyinxiangliangmei/www.facs.com.cn/cases.aspx.htm"],["?室内照明系列","http://10.200.43.37/company/feileyinxiangshinei/www.facs.com.cn/product.aspx-id=2.htm"]]' data-url="http://10.200.43.37/company/feileyinxiang/www.facs.com.cn/index.htm">上海飞乐音响股份有限公司</li>
 						</ul>
 					</div>
@@ -1159,7 +1159,7 @@
 							<li class="detail" data-product='[["汽车继电器","http://10.200.43.37/company/hugongqiche/www.hg-china.com/3product/product.asp-column=5.htm"],["汽车控制器","http://10.200.43.37/company/hugongqiche/www.hg-china.com/3product/product.asp-column=6.htm"],["汽车开关","http://10.200.43.37/company/hugongqiche/www.hg-china.com/3product/product.asp-column=7.htm"],["汽车执行器和其他","http://10.200.43.37/company/hugongqiche/www.hg-china.com/3product/product.asp-column=8.htm"],["汽车保险丝盒","http://10.200.43.37/company/hugongqiche/www.hg-china.com/3product/product.asp-column=9.htm"]]' data-url="http://10.200.43.37/company/hugongqiche/www.hg-china.com/index.htm">上海沪工汽车电器有限公司</li>
 							<!--<li class="detail" data-product='[["组合仪表","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp?lbid=20&title=%D7%E9%BA%CF%D2%C7%B1%ED"],["传感器","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp-lbid=21&lb=传感器.htm"],["数字钟","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp-lbid=22&lb=数字钟.htm"],["空调控制器","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp-lbid=23&lb=空调控制器.htm"],["LED半导体照明","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp-lbid=24&lb=LED半导体照明.htm"],["拜纳","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp-lbid=25&lb=拜纳.htm"],["医疗熏蒸仪","http://10.200.43.37/company/dekedianzi/www.sde-cn.com/pro.asp-lbid=26&lb=医疗熏蒸仪.htm"],["BCM、防盗系统","http://10.200.43.37/company/dekedianziBCM/www.sde-cn.com/pro.asp-lbid=27%26lb=BCM、防盗系统.htm"],["网关","http://10.200.43.37/company/dekedianziBCM/www.sde-cn.com/pro.asp-lbid=28&lb=网关.htm"]]' 
 						  data-url="http://10.200.43.37/company/dekedianzi/www.sde-cn.com/index.asp.htm">上海德科电子仪表有限公司</li>-->
-							<li class="detail" data-product='[["轨道交通系统集成设计和系统维护","http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/service/znjt_bmjs.jsp.htm"],["?公交系统集成设计和维护","http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/service/znjt_bmjs.jsp.htm"]]' data-url="http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/index.htm">上海仪电物联技术股份有限公司</li>
+							<li class="detail" data-product='[["轨道交通系统集成设计和系统维护","http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/service/znjt_bmjs.jsp.htm"],["?公交系统集成设计和维护","http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/service/znjt_bmjs.jsp.htm"]]' data-url="http://10.200.43.37/company/yidianwulian/www.kingsway.com.cn/index.htm">上海仪电仪电物联技术股份有限公司</li>
 						</ul>
 					</div>
 					<!--3-3-->
@@ -1169,7 +1169,7 @@
 							<li class="detail" data-product='[["无人值守机房动力环境监测系统","http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/index.htm"],["ATM人脸智能分析器","http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/sell/index.php-itemid=237.htm"],["智能周界分析器","http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/sell/index.php-itemid=238.htm"]]' data-info="全参数，可视化，机房环境监测系统" data-url="http://10.200.43.37/company/zhinuoshouye/zenointel.wlworld.com.cn/index.htm">杭州智诺英特科技有限公司</li>
 							<li class="detail" data-product='[["全方位安防与应急广播系统","http://10.200.43.37/company/saijia/shminxing036356.11467.com/index.htm"]]' data-info="公共场所安全预防监控和紧急疏散指导管理平台" data-url="http://10.200.43.37/company/saijia/shminxing036356.11467.com/index.htm">上海赛嘉电子科技有限公司</li>
 							<li class="detail" data-product='[["住宅小区安防系统","http://10.200.43.37/company/yiren/www.infinite.com.cn/product.asp-id=520&class1=571&class2=579.htm"],["办公楼宇安防系统","http://10.200.43.37/company/yiren/www.infinite.com.cn/product.asp-id=520&class1=571&class2=580.htm"],["TETRA数字集群","http://10.200.43.37/company/yiren/www.infinite.com.cn/product.asp-id=565&class1=568.htm"]]' data-url="http://10.200.43.37/company/yiren/www.infinite.com.cn/index.asp.htm">上海亿人通信终端有限公司</li>
-							<li class="detail" data-product='[["安防","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"]]' data-url="http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html">上海仪电鑫森科技发展有限公司</li>
+							<li class="detail" data-product='[["安防","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"]]' data-url="http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html">上海仪电仪电鑫森科技发展有限公司</li>
 						</ul>
 					</div>
 					<!--3-4-->
@@ -1191,15 +1191,15 @@
 					<!--3-6-->
 					<div class="menucom" style="display:none">
 						<ul class="child">
-							<li class="detail" data-product='[["智慧管网信息化管理平台","http://10.200.43.37/company/yunhan/18903491.pe168.com/index.htm"],["智能水表远传解决方案","http://10.200.43.37/company/yunhan/18903491.pe168.com/index.htm"]]' data-info="水资源利用，水业务融合的大数据管理云平台//智能物联网水表无线实时管理系统" data-url="http://10.200.43.37/company/yunhan/18903491.pe168.com/index.htm">上海云瀚科技股份有限公司</li>
+							<li class="detail" data-product='[["智慧管网信息化管理平台","http://10.200.43.37/company/yunhan/18903491.pe168.com/index.htm"],["智能水表远传解决方案","http://10.200.43.37/company/yunhan/18903491.pe168.com/index.htm"]]' data-info="水资源利用，水业务融合的大数据管理云平台//智能仪电物联网水表无线实时管理系统" data-url="http://10.200.43.37/company/yunhan/18903491.pe168.com/index.htm">上海云瀚科技股份有限公司</li>
 							<li class="detail" data-product='[["*二次供水在线监测系统","http://10.200.43.37/wqms"]]' data-info="监测水质情况，掌控水质安全，确保放心水流入百姓家" data-url="http://10.200.43.37/company/kexueyiqi/www.inesa-instrument.com/index.htm">上海仪电科学仪器股份有限公司 </li>
-							<li class="detail" data-product='[["学校直饮水解决方案","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"]]' data-info="实时监测、自动预警、智能控制、大数据分析、统一监管" data-url="http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html">上海仪电鑫森科技发展有限公司</li>
+							<li class="detail" data-product='[["学校直饮水解决方案","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"]]' data-info="实时监测、自动预警、智能控制、大数据分析、统一监管" data-url="http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html">上海仪电仪电鑫森科技发展有限公司</li>
 						</ul>
 					</div>
 					<!--3-7-->
 					<div class="menucom" style="display:none">
 						<ul class="child">
-							<li class="detail" data-product='[["*我要云学习","http://10.200.43.41"],["智慧心理教室","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"],["在线培训平台","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"]]' data-info="我们致力于让每一个学生随时、随地、随心、随需享受优质教育资源//移动互联、互动！打造新一代在线教育平台" data-url="http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html">上海仪电鑫森科技发展有限公司 </li>
+							<li class="detail" data-product='[["*我要云学习","http://10.200.43.41"],["智慧心理教室","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"],["在线培训平台","http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html"]]' data-info="我们致力于让每一个学生随时、随地、随心、随需享受优质教育资源//移动互联、互动！打造新一代在线教育平台" data-url="http://10.200.43.37/company/xinsen/www.sinthonic.com/sinthonic/index.html">上海仪电仪电鑫森科技发展有限公司 </li>
 							<li class="detail" data-product='[["远程教育","http://10.200.43.37/company/wangluoyuanchengjiaoyu/info.inesa.com/business8a6.html"]]' data-url="http://10.200.43.37/company/yunsai/www.inesa.com/cply/hxcy/xxfwy/xxfwyjj/2013-06-25/46.html">上海仪电信息网络有限公司</li>
 						</ul>
 					</div>
@@ -1356,7 +1356,7 @@
 			</div>
 			<!--右侧展示页面结束-->
 			<button class="button-icon" id="button-icon">开启系统整合</button>
-			<button class="button-formal" id="button-formal">正常版</button>
+			<button class="button-formal" id="button-formal">运营版</button>
 			
 
 		</div>
