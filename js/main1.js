@@ -172,9 +172,13 @@ $(".button-icon").toggle(
 	}
 );
 
-$(".button-icon2").click(function(){
+$(".button-shigong").click(function(){
 	window.location.href="index-formal.php";
 })
+$(".button-formal").click(function(){
+	window.location.href="index-shigong.php";
+})
+
 
 // $(".copy1").draggable({
 //     helper: "clone",
@@ -197,6 +201,15 @@ $(function() {
 	var target = $('.dropzone2');
 
 	d2.addDropzone(target, function(e) {
+		e.find('span').appendTo(target);
+		e.remove();
+	});
+});
+$(function() {
+	var d3 = $('.jq24').dad();
+	var target = $('.dropzone3');
+
+	d3.addDropzone(target, function(e) {
 		e.find('span').appendTo(target);
 		e.remove();
 	});

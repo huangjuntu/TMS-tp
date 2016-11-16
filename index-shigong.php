@@ -145,7 +145,7 @@
 
 					<!--十个图标加入结束-->
 					<!--复制的图片-->
-					<div class="jq22 jq23">
+					<div class="jq22 jq23 jq24">
 						<div class="copy1 icon-copy">
 							<span><img src="img/new/img1.png"/></span>
 							<h3>施工管理</h3>
@@ -1272,7 +1272,9 @@
 				</div>
 				<!--select右侧点击333的区域-->
 				<div class="desktop-two-center desktop-two-center-three" style="display: none;">
-					<div class="map-img cqlj map3" href="#icon_dock_cqlj" style="cursor: pointer;"></div>
+					<div class="map-img cqlj map3" href="#icon_dock_cqlj" style="cursor: pointer;">
+						<div class="dropzone3"></div>
+					</div>
 				</div>
 				<div class="desktop-two-buttom">
 					<div class="desktop-two-buttom-top">
@@ -1328,7 +1330,7 @@
 			</div>
 			<!--右侧展示页面结束-->
 			<button class="button-icon" id="button-icon">开启系统整合</button>
-			<button class="button-icon2" id="button-icon2">运营版</button>
+			<button class="button-shigong" id="button-shigong">运营版</button>
 		</div>
 		<!--管理者模式end-->
 

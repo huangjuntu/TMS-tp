@@ -157,7 +157,7 @@ select {
 	cursor: pointer;
 }
 
-.button-icon2 {
+.button-shigong, .button-formal{
 	position: absolute;
 	right: 0%;
 	top: 95.5%;
@@ -170,7 +170,7 @@ select {
 	background: rgba(255, 255, 255, 0.5);
 	color: white;
 	cursor: pointer;
-	opacity: 0;
+	/*opacity: 0;*/
 }
 
 .button-icon1 {
