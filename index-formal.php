@@ -93,17 +93,17 @@
 
 					<a class="abs icon" id="leap5" style="left:2%;top:33%;" href="#icon_dock_zhjt">
 						<img class="img_icon" src="img/new/img6.png" src1="img/new/img6.png" src2="img/new/img6b.png" />
-						<h3>电子教室</h3>
+						<h3>校区一卡通<br/>(物联)</h3>
 					</a>
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
 						<img class="img_icon" src="img/new/img11.png" src1="img/new/img11.png" src2="img/new/img11b.png" />
-						<h3>校区一卡通<br/>(物联)</h3>
+						<h3>电子教室</h3>
 					</a>
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
 						<img class="img_icon" src="img/new/img12.png" src1="img/new/img12.png" src2="img/new/img12b.png" />
-						<h3>校区停车<br/>(云赛智联)</h3>
+						<h3>校区水质<br/>(科学仪器/云翰)</h3>
 					</a>
 					<a class="abs icon" id="leap8" style="left:8%;top:49%;" href="#icon_dock_jianzhu">
 						<img class="img_icon" src="img/new/img5.png" src1="img/new/img5.png" src2="img/new/img5b.png" />
@@ -111,7 +111,7 @@
 					</a>
 					<a class="abs icon" id="leap9" style="left:2%;top:65%;" href="#icon_dock_bdc">
 						<img class="img_icon" src="img/new/img3.png" src1="img/new/img3.png" src2="img/new/img3b.png" />
-						<h3>校区水质<br/>(科学仪器/云翰)</h3>
+						<h3>校区停车<br/>(云赛智联)</h3>
 					</a>
 					<a class="abs icon" id="leap10" style="left:8%;top:65%;" href="#icon_dock_bank">
 						<img class="img_icon" src="img/new/img4.png" src1="img/new/img4.png" src2="img/new/img4b.png" />
@@ -164,15 +164,15 @@
 						</div>
 						<div class="copy5 icon-copy">
 							<span><img src="img/new/img6.png"/></span>
-							<h3>电子教室</h3>
+							<h3>校区一卡通<br/>(物联)</h3>
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
-							<h3>校区一卡通<br/>(物联)</h3>
+							<h3>电子教室</h3>
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
-							<h3>校区停车<br/>(云赛智联)</h3>
+							<h3>校区水质<br/>(科学仪器/云翰)</h3>
 						</div>
 						<div class="copy8 icon-copy">
 							<span><img src="img/new/img5.png"/></span>
@@ -180,7 +180,7 @@
 						</div>
 						<div class="copy9 icon-copy">
 							<span><img src="img/new/img3.png"/></span>
-							<h3>校区水质<br/>(科学仪器/云翰)</h3>
+							<h3>校区停车<br/>(云赛智联)</h3>
 						</div>
 						<div class="copy10 icon-copy">
 							<span><img src="img/new/img4.png"/></span>
@@ -295,7 +295,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									电子教室
+									校区一卡通<br/>(物联)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -305,7 +305,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="5" class="if5" id="IframeID5" src=""></iframe>
 							<div class="abs window_bottom">
-								电子教室
+								校区一卡通<br/>(物联)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -315,7 +315,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校区一卡通<br/>(物联)
+									电子教室
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -326,7 +326,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="6" class="if6" id="IframeID6" src=""></iframe>
 							<div class="abs window_bottom">
-								校区一卡通<br/>(物联)
+								电子教室
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -336,7 +336,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									校区停车<br/>(云赛智联)
+									校区水质<br/>(科学仪器/云翰)
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -346,7 +346,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="7" class="if7" id="IframeID7" src=""></iframe>
 							<div class="abs window_bottom">
-								校区停车<br/>(云赛智联)
+								校区水质<br/>(科学仪器/云翰)
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
