@@ -20,21 +20,39 @@ $('#mySelect').change(function() {
 		for(var x = 1; x <= 15; x++) {
 			$("#leap" + x).children().next().html(select1[x - 1]);
 		}
+		
+		var select11 = new Array(
+			"施工管理", "预算管理", "照明系统<br/>（飞乐音响）", "安防监控<br/>（云赛智联）", "停车管理<br/>（云赛智联）",
+			"公广系统<br/>（云赛智联）", "工地噪音管理", "升降机监控管理", "整改与罚款", "通讯录管理",
+			"数据中心", "安全教育管理", "项目管理", "能耗管理<br/>（仪电物联）", "智能识别<br/>（仪电电子）"
+		);
+		for(var x = 1; x <= 15; x++) {
+			$(".copy" + x).children().next().html(select11[x - 1]);
+		}
 
 	} else if(select_value == 2) {
 		$('.desktop-two-center-two').css("display", "block");
 		$('.desktop-two-center-one').css("display", "none");
 		$('.desktop-two-center-three').css("display", "none");
 		$(".desktop-two-center .news").css("display", "block");
-		$('.desktop-two-button').attr("disabled", "disabled");
-		$(".desktop-two-button").addClass("white_bd1");
+//		$('.desktop-two-button').attr("disabled", "disabled");
+//		$(".desktop-two-button").addClass("white_bd1");
 		var select2 = new Array(
-			"施工管理", "预算管理", "照明系统<br/>（飞乐音响）", "安防监控<br/>（云赛智联）", "停车管理<br/>（云赛智联）",
-			"公广系统<br/>（云赛智联）", "工地噪音管理", "升降机监控管理", "整改与罚款", "通讯录管理",
-			"数据中心", "安全教育管理", "项目管理", "能耗管理<br/>（仪电物联）", "智能识别<br/>（仪电电子）"
+			"施工管理", "地块信息系统", "照明系统<br/>（飞乐音响）", "安防监控<br/>（云赛智联）", "停车管理<br/>（云赛智联）",
+			"公广系统<br/>（云赛智联）", "工地噪音管理", "升降机监控管理", "整改与罚款", "物业管理",
+			"数据中心", "安全教育管理", "土地开发监控", "能耗管理<br/>（仪电物联）", "智能识别<br/>（仪电电子）"
 		);
 		for(var x = 1; x <= 15; x++) {
-			$("#leap" + x).children().next().html(select2[x - 1]+"22");
+			$("#leap" + x).children().next().html(select2[x - 1]);
+		}
+		
+		var select22 = new Array(
+			"施工管理", "地块信息系统", "照明系统<br/>（飞乐音响）", "安防监控<br/>（云赛智联）", "停车管理<br/>（云赛智联）",
+			"公广系统<br/>（云赛智联）", "工地噪音管理", "升降机监控管理", "整改与罚款", "物业管理",
+			"数据中心", "安全教育管理", "土地开发监控", "能耗管理<br/>（仪电物联）", "智能识别<br/>（仪电电子）"
+		);
+		for(var x = 1; x <= 15; x++) {
+			$(".copy" + x).children().next().html(select22[x - 1]);
 		}
 
 	} else if(select_value == 3) {

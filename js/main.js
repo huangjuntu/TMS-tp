@@ -214,6 +214,7 @@ document.onclick = function (e) {
         }).siblings().css({
             "display": "none"
         });
+        $(".rightdiv").css("display","block");
         if (myindex == 0) {
             $(this).addClass("active2").siblings().removeClass("active");
             $(this).find(".tri").addClass("trion2");
