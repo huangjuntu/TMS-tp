@@ -1348,7 +1348,7 @@
 
 		<!--注意：main1.jdigiclock.js上面-->
 		<script type="text/javascript" src="js/main.js"></script>
-		<script type="text/javascript" src="js/main1.js"></script>
+		<script type="text/javascript" src="js/main1-shigong.js"></script>
 
 		<script type="text/javascript" src="js/jquery-ui.js"></script>
 
