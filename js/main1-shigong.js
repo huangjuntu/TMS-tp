@@ -35,6 +35,7 @@ $('#mySelect').change(function() {
 		$('.desktop-two-center-one').css("display", "none");
 		$('.desktop-two-center-three').css("display", "none");
 		$(".desktop-two-center .news").css("display", "block");
+		$(".desktop-two-button").removeClass("white_bd1");
 //		$('.desktop-two-button').attr("disabled", "disabled");
 //		$(".desktop-two-button").addClass("white_bd1");
 		var select2 = new Array(

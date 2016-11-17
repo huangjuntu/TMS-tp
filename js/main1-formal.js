@@ -36,6 +36,7 @@ $('#mySelect').change(function() {
 		$(".desktop-two-center .news").css("display", "block");
 //		$('.desktop-two-button').attr("disabled", "disabled");
 //		$(".desktop-two-button").addClass("white_bd1");
+		$(".desktop-two-button").removeClass("white_bd1");
 		var select2 = new Array(
 			"土地信息平台<br/>(科技网/研究院)", "GIS通用工具", "土地开发监控<br/>(飞乐/云赛智联)", "门禁系统<br/>(仪电物联)", "容灾备份<br/>(科技网/研究院)",
 			"公广系统<br/>(赛嘉)", "园区水质<br/>(科学仪器/云瀚)", "能耗管理系统<br/>(仪电物联)", "园区停车<br/>(云赛智联)", "云应用<br/>(南洋万邦)",
