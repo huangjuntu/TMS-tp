@@ -48,7 +48,7 @@
 		<!--<div class="small_if" style="width:600px;height:400px; background: pink; position: absolute;top: 0px;left: 0;z-index: 999;">
 			<iframe src="http://www.baidu.com" style="width:600px;height:400px; " ></iframe>
 		</div>-->
-		<div class="logo"></div>
+		<div class="logo">智慧城市整体解决方案 提供商和运营商</div>
 		<div id="free"><input id="hidecode" type="hidden" value="" /></div>
 		<div class="dialog">
 			<a class="close">+</a>
@@ -1029,7 +1029,7 @@
 						<img src="img/datamine1.jpg" class="db_click1" width="100%" height="100%">
 						<img src="img/datamine.jpg" class="db_click2" width="100%" height="100%" style="display: none;">
 						<ul class="istack toframe" src="http://10.200.43.37/istack#footer">
-							<a href="javascript:void(0)">http://i-stack.org/</a>
+							<a href="javascript:void(0)">http://xxx.org/</a>
 						</ul>
 					</div>
 					<!--2-4-->
