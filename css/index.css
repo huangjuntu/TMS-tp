@@ -90,9 +90,9 @@ body {
 }
 .logo {
     width: 450px;
-    right: 50%;
+    right: 41%;
     height: 50px;
-    background: url("../img/yun_inesa.png") no-repeat;
+    background: url("../img/yun_inesa1.png") no-repeat;
     margin-right: -225px;
     top: 45%;
     margin-top: -25px;
@@ -211,7 +211,7 @@ li {
 
 .smart {
     height: 83px;
-    background: url(../img/INESA.png) no-repeat 5px 0;
+    background: url(../img/INESA1.png) no-repeat 5px 0;
     z-index: 3;
 }
 
@@ -262,7 +262,7 @@ li {
 }
 
 .active2 {
-    background: url("../img/InesainsideCopy.png") no-repeat 9px 13px,url("../img/Path_Rectangle1.png") no-repeat;
+    background: url("../img/InesainsideCopy1.png") no-repeat 9px 13px,url("../img/Path_Rectangle1.png") no-repeat;
     background-size: 132px 46px,208px 80px;
 }
 

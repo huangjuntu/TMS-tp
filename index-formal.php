@@ -1045,7 +1045,7 @@
 					<!--2-5-->
 					<div class="systemmanagement secondclose">
 						<div class="leftdiv">
-							<h6>INESA本地服务器版本</h6>
+							<h6>本地服务器版本</h6>
 							<ul>
 								<li>
 									<h5 class="toframe top" src="http://10.200.43.33/">管理面板</h5>
@@ -1077,7 +1077,7 @@
 							</ul>
 						</div>
 						<div class="rightdiv">
-							<h6>INESA IDC版</h6>
+							<h6> IDC版</h6>
 							<ul>
 								<li>
 									<a href="">对象存储</a>
