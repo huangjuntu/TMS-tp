@@ -277,7 +277,7 @@ document.onclick = function (e) {
 		 $(this).addClass("active1");
 		 $(".child li").css('color','black');
         $(".commenu").find("div").eq(myindex).css({
-            "display": "block"
+            "display": "none"
         }).siblings().css({
             "display": "none"
         });

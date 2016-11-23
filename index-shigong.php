@@ -83,22 +83,22 @@
 
 					<a class="abs icon" id="leap3" style="left:2%;top:17%;" href="#icon_dock_znldw">
 						<img class="img_icon" src="img/new/img9-1.png" src1="img/new/img9-1.png" src2="img/new/img9-1b.png" />
-						<h3>照明系统<br/>（飞乐音响）</h3>
+						<h3>照明系统<br/></h3>
 					</a>
 
 					<a class="abs icon" id="leap4" style="left:8%;top:17%;" href="#icon_dock_zhsy">
 						<img class="img_icon" src="img/new/img10.png" src1="img/new/img10.png" src2="img/new/img10b.png" />
-						<h3>安防监控<br/>（云赛智联）</h3>
+						<h3>安防监控<br/></h3>
 					</a>
 
 					<a class="abs icon" id="leap5" style="left:2%;top:33%;" href="#icon_dock_zhjt">
 						<img class="img_icon" src="img/new/img6.png" src1="img/new/img6.png" src2="img/new/img6b.png" />
-						<h3>停车管理<br/>（云赛智联）</h3>
+						<h3>停车管理<br/></h3>
 					</a>
 
 					<a class="abs icon" id="leap6" style="left:8%;top:33%;" href="#icon_dock_zhjy">
 						<img class="img_icon" src="img/new/img11.png" src1="img/new/img11.png" src2="img/new/img11b.png" />
-						<h3>公广系统<br/>（云赛智联）</h3>
+						<h3>公广系统<br/></h3>
 					</a>
 
 					<a class="abs icon" id="leap7" style="left:2%;top:49%;" href="#icon_dock_zhsw">
@@ -135,12 +135,12 @@
 
 					<a class="abs icon" id="leap14" style="left:14%;top:17%;" href="#icon_dock_14">
 						<img class="img_icon" src="img/new/img14.png" src1="img/new/img14.png" src2="img/new/img14b.png" />
-						<h3>能耗管理<br/>（仪电物联）</h3>
+						<h3>能耗管理<br/></h3>
 					</a>
 
 					<a class="abs icon" id="leap15" style="left:14%;top:33%;" href="#icon_dock_15">
 						<img class="img_icon" src="img/new/img15.png" src1="img/new/img15.png" src2="img/new/img15b.png" />
-						<h3>智能识别<br/>（仪电电子）</h3>
+						<h3>智能识别<br/></h3>
 					</a>
 
 					<!--十个图标加入结束-->
@@ -156,19 +156,19 @@
 						</div>
 						<div class="copy3 icon-copy">
 							<span><img src="img/new/img9-1.png"/></span>
-							<h3>照明系统<br/>（飞乐音响）</h3>
+							<h3>照明系统<br/></h3>
 						</div>
 						<div class="copy4 icon-copy">
 							<span><img src="img/new/img10.png"/></span>
-							<h3>安防监控<br/>（云赛智联）</h3>
+							<h3>安防监控<br/></h3>
 						</div>
 						<div class="copy5 icon-copy">
 							<span><img src="img/new/img6.png"/></span>
-							<h3>停车管理<br/>（云赛智联）</h3>
+							<h3>停车管理<br/></h3>
 						</div>
 						<div class="copy6 icon-copy">
 							<span><img src="img/new/img11.png"/></span>
-							<h3>公广系统<br/>（云赛智联）</h3>
+							<h3>公广系统<br/></h3>
 						</div>
 						<div class="copy7 icon-copy">
 							<span><img src="img/new/img12.png"/></span>
@@ -200,11 +200,11 @@
 						</div>
 						<div class="copy14 icon-copy">
 							<span><img src="img/new/img14.png"/></span>
-							<h3>能耗管理<br/>（仪电物联）</h3>
+							<h3>能耗管理<br/></h3>
 						</div>
 						<div class="copy15 icon-copy">
 							<span><img src="img/new/img15.png"/></span>
-							<h3>智能识别<br/>（仪电电子）</h3>
+							<h3>智能识别<br/></h3>
 						</div>
 
 					</div>
@@ -255,7 +255,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									照明系统<br/>（飞乐音响）
+									照明系统<br/>
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -265,7 +265,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="3" class="if3" id="IframeID3" src=""></iframe>
 							<div class="abs window_bottom">
-								照明系统<br/>（飞乐音响）
+								照明系统<br/>
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -275,7 +275,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									安防监控<br/>（云赛智联）
+									安防监控<br/>
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -285,7 +285,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="4" class="if4" id="IframeID4" src=""></iframe>
 							<div class="abs window_bottom">
-								安防监控<br/>（云赛智联）
+								安防监控<br/>
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -295,7 +295,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									停车管理<br/>（云赛智联）
+									停车管理<br/>
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -305,7 +305,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="5" class="if5" id="IframeID5" src=""></iframe>
 							<div class="abs window_bottom">
-								停车管理<br/>（云赛智联）
+								停车管理<br/>
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
@@ -315,7 +315,7 @@
 							<div class="window_top">
 								<span class="float_left">
 									<img src="img/icons/icon_16_computer.png" />
-									公广系统<br/>（云赛智联）
+									公广系统<br/>
 								</span>
 								<span class="float_right">
 									<a href="#" class="window_min"></a>
@@ -326,7 +326,7 @@
 							</div>
 							<iframe width="99.5%" height="94%" orderr="6" class="if6" id="IframeID6" src=""></iframe>
 							<div class="abs window_bottom">
-								公广系统<br/>（云赛智联）
+								公广系统<br/>
 							</div>
 						</div>
 						<span class="abs ui-resizable-handle ui-resizable-se"></span>
